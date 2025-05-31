@@ -1,0 +1,1606 @@
+Competition started with 5 agents
+Scores (Sorted):
+1. Agent 0.0 1: 1800.00
+2. Agent 0.0 2: 1800.00
+3. Agent 0.0 3: 1800.00
+4. Agent 0.1 1: 1800.00
+5. Agent 0.1 2: 1800.00
+Resetting scores 
+
+
+Noisy:
+Round size: 10 - Player Agent 0.0 1: 2.546 - Player Agent 0.0 2: 2.5660000000000003
+Round size: 500 - Player Agent 0.0 1: 2.23856 - Player Agent 0.0 2: 2.23776
+Round size: 10000 - Player Agent 0.0 1: 2.25346 - Player Agent 0.0 2: 2.25271
+Round size: 10 - Player Agent 0.0 1: 2.56 - Player Agent 0.0 3: 2.6
+Round size: 500 - Player Agent 0.0 1: 2.2552000000000003 - Player Agent 0.0 3: 2.255
+Round size: 10000 - Player Agent 0.0 1: 2.25692 - Player Agent 0.0 3: 2.25999
+Round size: 10 - Player Agent 0.0 1: 2.772 - Player Agent 0.1 1: 2.6919999999999997
+Round size: 500 - Player Agent 0.0 1: 2.5292 - Player Agent 0.1 1: 2.4138
+Round size: 10000 - Player Agent 0.0 1: 2.5095359999999998 - Player Agent 0.1 1: 2.391296
+Round size: 10 - Player Agent 0.0 1: 2.742 - Player Agent 0.1 2: 2.622
+Round size: 500 - Player Agent 0.0 1: 2.50372 - Player Agent 0.1 2: 2.39032
+Round size: 10000 - Player Agent 0.0 1: 2.511038 - Player Agent 0.1 2: 2.391508
+Round size: 10 - Player Agent 0.0 2: 2.638 - Player Agent 0.0 3: 2.568
+Round size: 500 - Player Agent 0.0 2: 2.2652 - Player Agent 0.0 3: 2.274
+Round size: 10000 - Player Agent 0.0 2: 2.254196 - Player Agent 0.0 3: 2.254666
+Round size: 10 - Player Agent 0.0 2: 2.77 - Player Agent 0.1 1: 2.63
+Round size: 500 - Player Agent 0.0 2: 2.51112 - Player Agent 0.1 1: 2.39852
+Round size: 10000 - Player Agent 0.0 2: 2.5047900000000003 - Player Agent 0.1 1: 2.38992
+Round size: 10 - Player Agent 0.0 2: 2.714 - Player Agent 0.1 2: 2.7239999999999998
+Round size: 500 - Player Agent 0.0 2: 2.52004 - Player Agent 0.1 2: 2.4032400000000003
+Round size: 10000 - Player Agent 0.0 2: 2.509392 - Player Agent 0.1 2: 2.391092
+Round size: 10 - Player Agent 0.0 3: 2.688 - Player Agent 0.1 1: 2.648
+Round size: 500 - Player Agent 0.0 3: 2.51376 - Player Agent 0.1 1: 2.38916
+Round size: 10000 - Player Agent 0.0 3: 2.513986 - Player Agent 0.1 1: 2.393666
+Round size: 10 - Player Agent 0.0 3: 2.742 - Player Agent 0.1 2: 2.642
+Round size: 500 - Player Agent 0.0 3: 2.51688 - Player Agent 0.1 2: 2.40228
+Round size: 10000 - Player Agent 0.0 3: 2.511978 - Player Agent 0.1 2: 2.3910679999999997
+Round size: 10 - Player Agent 0.1 1: 2.622 - Player Agent 0.1 2: 2.662
+Round size: 500 - Player Agent 0.1 1: 2.57024 - Player Agent 0.1 2: 2.56404
+Round size: 10000 - Player Agent 0.1 1: 2.575584 - Player Agent 0.1 2: 2.576244
+Scores (Sorted):
+1. Agent 0.1 2: 1507.99
+2. Agent 0.1 1: 1505.71
+3. Agent 0.0 2: 1487.16
+4. Agent 0.0 3: 1484.91
+5. Agent 0.0 1: 1483.88
+Resetting scores 
+
+
+Competition started with 4 agents
+Scores (Sorted):
+1. Agent 0.0 1: 1350.00
+2. Agent 0.0 2: 1350.00
+3. Agent 0.0 3: 1350.00
+4. Agent 0.1 1: 1350.00
+Resetting scores 
+
+
+Noisy:
+Round size: 10 - Player Agent 0.0 1: 2.546 - Player Agent 0.0 2: 2.5660000000000003
+Round size: 500 - Player Agent 0.0 1: 2.23856 - Player Agent 0.0 2: 2.23776
+Round size: 10000 - Player Agent 0.0 1: 2.25346 - Player Agent 0.0 2: 2.25271
+Round size: 10 - Player Agent 0.0 1: 2.56 - Player Agent 0.0 3: 2.6
+Round size: 500 - Player Agent 0.0 1: 2.2552000000000003 - Player Agent 0.0 3: 2.255
+Round size: 10000 - Player Agent 0.0 1: 2.25692 - Player Agent 0.0 3: 2.25999
+Round size: 10 - Player Agent 0.0 1: 2.772 - Player Agent 0.1 1: 2.6919999999999997
+Round size: 500 - Player Agent 0.0 1: 2.5292 - Player Agent 0.1 1: 2.4138
+Round size: 10000 - Player Agent 0.0 1: 2.5095359999999998 - Player Agent 0.1 1: 2.391296
+Round size: 10 - Player Agent 0.0 2: 2.642 - Player Agent 0.0 3: 2.572
+Round size: 500 - Player Agent 0.0 2: 2.24 - Player Agent 0.0 3: 2.2447999999999997
+Round size: 10000 - Player Agent 0.0 2: 2.251566 - Player Agent 0.0 3: 2.2532259999999997
+Round size: 10 - Player Agent 0.0 2: 2.736 - Player Agent 0.1 1: 2.6460000000000004
+Round size: 500 - Player Agent 0.0 2: 2.516 - Player Agent 0.1 1: 2.4078
+Round size: 10000 - Player Agent 0.0 2: 2.511904 - Player Agent 0.1 1: 2.393674
+Round size: 10 - Player Agent 0.0 3: 2.716 - Player Agent 0.1 1: 2.556
+Round size: 500 - Player Agent 0.0 3: 2.49864 - Player Agent 0.1 1: 2.40404
+Round size: 10000 - Player Agent 0.0 3: 2.50514 - Player Agent 0.1 1: 2.39052
+Scores (Sorted):
+1. Agent 0.1 1: 1114.76
+2. Agent 0.0 2: 1097.70
+3. Agent 0.0 1: 1096.04
+4. Agent 0.0 3: 1095.24
+Resetting scores 
+
+
+Competition started with 5 agents
+Scores (Sorted):
+1. Agent 0.0 1: 1800.00
+2. Agent 0.0 2: 1800.00
+3. Agent 0.0 3: 1800.00
+4. Agent 0.1 1: 1800.00
+5. Agent 0.2 1: 1800.00
+Resetting scores 
+
+
+Noisy:
+Round size: 10 - Player Agent 0.0 1: 2.546 - Player Agent 0.0 2: 2.5660000000000003
+Round size: 500 - Player Agent 0.0 1: 2.23856 - Player Agent 0.0 2: 2.23776
+Round size: 10000 - Player Agent 0.0 1: 2.25346 - Player Agent 0.0 2: 2.25271
+Round size: 10 - Player Agent 0.0 1: 2.56 - Player Agent 0.0 3: 2.6
+Round size: 500 - Player Agent 0.0 1: 2.2552000000000003 - Player Agent 0.0 3: 2.255
+Round size: 10000 - Player Agent 0.0 1: 2.25692 - Player Agent 0.0 3: 2.25999
+Round size: 10 - Player Agent 0.0 1: 2.772 - Player Agent 0.1 1: 2.6919999999999997
+Round size: 500 - Player Agent 0.0 1: 2.5292 - Player Agent 0.1 1: 2.4138
+Round size: 10000 - Player Agent 0.0 1: 2.5095359999999998 - Player Agent 0.1 1: 2.391296
+Round size: 10 - Player Agent 0.0 1: 2.786 - Player Agent 0.2 1: 2.6260000000000003
+Round size: 500 - Player Agent 0.0 1: 2.68856 - Player Agent 0.2 1: 2.48196
+Round size: 10000 - Player Agent 0.0 1: 2.687058 - Player Agent 0.2 1: 2.482188
+Round size: 10 - Player Agent 0.0 2: 2.546 - Player Agent 0.0 3: 2.596
+Round size: 500 - Player Agent 0.0 2: 2.24856 - Player Agent 0.0 3: 2.24916
+Round size: 10000 - Player Agent 0.0 2: 2.251048 - Player Agent 0.0 3: 2.252648
+Round size: 10 - Player Agent 0.0 2: 2.728 - Player Agent 0.1 1: 2.6180000000000003
+Round size: 500 - Player Agent 0.0 2: 2.5108 - Player Agent 0.1 1: 2.4004
+Round size: 10000 - Player Agent 0.0 2: 2.503824 - Player Agent 0.1 1: 2.389774
+Round size: 10 - Player Agent 0.0 2: 2.78 - Player Agent 0.2 1: 2.67
+Round size: 500 - Player Agent 0.0 2: 2.68328 - Player Agent 0.2 1: 2.4866800000000002
+Round size: 10000 - Player Agent 0.0 2: 2.690786 - Player Agent 0.2 1: 2.485096
+Round size: 10 - Player Agent 0.0 3: 2.654 - Player Agent 0.1 1: 2.6639999999999997
+Round size: 500 - Player Agent 0.0 3: 2.51356 - Player Agent 0.1 1: 2.3987600000000002
+Round size: 10000 - Player Agent 0.0 3: 2.512744 - Player Agent 0.1 1: 2.393454
+Round size: 10 - Player Agent 0.0 3: 2.88 - Player Agent 0.2 1: 2.67
+Round size: 500 - Player Agent 0.0 3: 2.69564 - Player Agent 0.2 1: 2.4754400000000003
+Round size: 10000 - Player Agent 0.0 3: 2.687614 - Player Agent 0.2 1: 2.482554
+Round size: 10 - Player Agent 0.1 1: 2.858 - Player Agent 0.2 1: 2.818
+Round size: 500 - Player Agent 0.1 1: 2.70724 - Player Agent 0.2 1: 2.6212400000000002
+Round size: 10000 - Player Agent 0.1 1: 2.7113600000000004 - Player Agent 0.2 1: 2.6185899999999998
+Scores (Sorted):
+1. Agent 0.2 1: 1545.89
+2. Agent 0.1 1: 1531.90
+3. Agent 0.0 3: 1507.82
+4. Agent 0.0 1: 1504.12
+5. Agent 0.0 2: 1499.94
+Resetting scores 
+
+
+Competition started with 6 agents
+Scores (Sorted):
+1. AgentMiller bricht aus: 2250.00
+2. Agent 0.0 1: 2250.00
+3. Agent 0.0 2: 2250.00
+4. Agent 0.0 3: 2250.00
+5. Agent 0.1 1: 2250.00
+6. Agent 0.2 1: 2250.00
+Resetting scores 
+
+
+Noisy:
+Competition started with 6 agents
+Scores (Sorted):
+1. AgentMiller bricht aus: 2250.00
+2. Agent 0.0 1: 2250.00
+3. Agent 0.0 2: 2250.00
+4. Agent 0.0 3: 2250.00
+5. Agent 0.1 1: 2250.00
+6. Agent 0.2 1: 2250.00
+Resetting scores 
+
+
+Noisy:
+Round size: 10 - Player AgentMiller bricht aus: 2.668 - Player Agent 0.0 1: 3.178
+Round size: 500 - Player AgentMiller bricht aus: 2.6547199999999997 - Player Agent 0.0 1: 3.1181200000000002
+Round size: 10000 - Player AgentMiller bricht aus: 2.663178 - Player Agent 0.0 1: 3.120108
+Round size: 10 - Player AgentMiller bricht aus: 2.662 - Player Agent 0.0 2: 3.102
+Round size: 500 - Player AgentMiller bricht aus: 2.6766 - Player Agent 0.0 2: 3.122
+Round size: 10000 - Player AgentMiller bricht aus: 2.664792 - Player Agent 0.0 2: 3.118052
+Round size: 10 - Player AgentMiller bricht aus: 2.6439999999999997 - Player Agent 0.0 3: 3.1239999999999997
+Round size: 500 - Player AgentMiller bricht aus: 2.6658 - Player Agent 0.0 3: 3.1201999999999996
+Round size: 10000 - Player AgentMiller bricht aus: 2.662694 - Player Agent 0.0 3: 3.119794
+Round size: 10 - Player AgentMiller bricht aus: 2.822 - Player Agent 0.1 1: 3.032
+Round size: 500 - Player AgentMiller bricht aus: 2.71824 - Player Agent 0.1 1: 3.1126400000000003
+Round size: 10000 - Player AgentMiller bricht aus: 2.711748 - Player Agent 0.1 1: 3.110578
+Round size: 10 - Player AgentMiller bricht aus: 2.8160000000000003 - Player Agent 0.2 1: 3.096
+Round size: 500 - Player AgentMiller bricht aus: 2.7522800000000003 - Player Agent 0.2 1: 3.10548
+Round size: 10000 - Player AgentMiller bricht aus: 2.755782 - Player Agent 0.2 1: 3.099472
+Round size: 10 - Player Agent 0.0 1: 2.612 - Player Agent 0.0 2: 2.602
+Round size: 500 - Player Agent 0.0 1: 2.25368 - Player Agent 0.0 2: 2.24708
+Round size: 10000 - Player Agent 0.0 1: 2.2503219999999997 - Player Agent 0.0 2: 2.249822
+Round size: 10 - Player Agent 0.0 1: 2.608 - Player Agent 0.0 3: 2.5180000000000002
+Round size: 500 - Player Agent 0.0 1: 2.2657599999999998 - Player Agent 0.0 3: 2.26096
+Round size: 10000 - Player Agent 0.0 1: 2.255086 - Player Agent 0.0 3: 2.254926
+Round size: 10 - Player Agent 0.0 1: 2.7460000000000004 - Player Agent 0.1 1: 2.696
+Round size: 500 - Player Agent 0.0 1: 2.5288399999999998 - Player Agent 0.1 1: 2.39444
+Round size: 10000 - Player Agent 0.0 1: 2.508998 - Player Agent 0.1 1: 2.391808
+Round size: 10 - Player Agent 0.0 1: 2.7560000000000002 - Player Agent 0.2 1: 2.596
+Round size: 500 - Player Agent 0.0 1: 2.7032 - Player Agent 0.2 1: 2.499
+Round size: 10000 - Player Agent 0.0 1: 2.6883679999999996 - Player Agent 0.2 1: 2.484068
+Round size: 10 - Player Agent 0.0 2: 2.616 - Player Agent 0.0 3: 2.536
+Round size: 500 - Player Agent 0.0 2: 2.26956 - Player Agent 0.0 3: 2.2649600000000003
+Round size: 10000 - Player Agent 0.0 2: 2.253814 - Player Agent 0.0 3: 2.253204
+Round size: 10 - Player Agent 0.0 2: 2.76 - Player Agent 0.1 1: 2.73
+Round size: 500 - Player Agent 0.0 2: 2.52124 - Player Agent 0.1 1: 2.39884
+Round size: 10000 - Player Agent 0.0 2: 2.5103999999999997 - Player Agent 0.1 1: 2.39141
+Round size: 10 - Player Agent 0.0 2: 2.888 - Player Agent 0.2 1: 2.678
+Round size: 500 - Player Agent 0.0 2: 2.6855200000000004 - Player Agent 0.2 1: 2.47852
+Round size: 10000 - Player Agent 0.0 2: 2.689514 - Player Agent 0.2 1: 2.485614
+Round size: 10 - Player Agent 0.0 3: 2.656 - Player Agent 0.1 1: 2.5660000000000003
+Round size: 500 - Player Agent 0.0 3: 2.5248 - Player Agent 0.1 1: 2.4019999999999997
+Round size: 10000 - Player Agent 0.0 3: 2.510786 - Player Agent 0.1 1: 2.394626
+Round size: 10 - Player Agent 0.0 3: 2.79 - Player Agent 0.2 1: 2.73
+Round size: 500 - Player Agent 0.0 3: 2.6780399999999998 - Player Agent 0.2 1: 2.48244
+Round size: 10000 - Player Agent 0.0 3: 2.689212 - Player Agent 0.2 1: 2.482872
+Round size: 10 - Player Agent 0.1 1: 2.77 - Player Agent 0.2 1: 2.74
+Round size: 500 - Player Agent 0.1 1: 2.71476 - Player Agent 0.2 1: 2.61716
+Round size: 10000 - Player Agent 0.1 1: 2.712316 - Player Agent 0.2 1: 2.618876
+Scores (Sorted):
+1. AgentMiller bricht aus: 2026.89
+2. Agent 0.2 1: 2009.68
+3. Agent 0.1 1: 1990.87
+4. Agent 0.0 2: 1981.75
+5. Agent 0.0 1: 1979.62
+6. Agent 0.0 3: 1965.04
+Resetting scores 
+
+
+Competition started with 7 agents
+Scores (Sorted):
+1. Agent immer C: 2700.00
+2. AgentMiller bricht aus: 2700.00
+3. Agent 0.0 1: 2700.00
+4. Agent 0.0 2: 2700.00
+5. Agent 0.0 3: 2700.00
+6. Agent 0.1 1: 2700.00
+7. Agent 0.2 1: 2700.00
+Resetting scores 
+
+
+Noisy:
+Round size: 10 - Player Agent immer C: 2.9160000000000004 - Player AgentMiller bricht aus: 3.056
+Round size: 500 - Player Agent immer C: 2.97444 - Player AgentMiller bricht aus: 3.01704
+Round size: 10000 - Player Agent immer C: 2.972838 - Player AgentMiller bricht aus: 3.018108
+Round size: 10 - Player Agent immer C: 2.718 - Player Agent 0.0 1: 3.188
+Round size: 500 - Player Agent immer C: 2.7064800000000004 - Player Agent 0.0 1: 3.19568
+Round size: 10000 - Player Agent immer C: 2.7028320000000003 - Player Agent 0.0 1: 3.198112
+Round size: 10 - Player Agent immer C: 2.742 - Player Agent 0.0 2: 3.1719999999999997
+Round size: 500 - Player Agent immer C: 2.70132 - Player Agent 0.0 2: 3.1991199999999997
+Round size: 10000 - Player Agent immer C: 2.70003 - Player Agent 0.0 2: 3.19998
+Round size: 10 - Player Agent immer C: 2.694 - Player Agent 0.0 3: 3.2039999999999997
+Round size: 500 - Player Agent immer C: 2.7080399999999996 - Player Agent 0.0 3: 3.19464
+Round size: 10000 - Player Agent immer C: 2.6991 - Player Agent 0.0 3: 3.2006
+Round size: 10 - Player Agent immer C: 2.748 - Player Agent 0.1 1: 3.168
+Round size: 500 - Player Agent immer C: 2.72688 - Player Agent 0.1 1: 3.1820800000000005
+Round size: 10000 - Player Agent immer C: 2.730054 - Player Agent 0.1 1: 3.179964
+Round size: 10 - Player Agent immer C: 2.82 - Player Agent 0.2 1: 3.12
+Round size: 500 - Player Agent immer C: 2.75772 - Player Agent 0.2 1: 3.16152
+Competition started with 7 agents
+Scores (Sorted):
+1. Agent immer C: 2700.00
+2. AgentMiller bricht aus: 2700.00
+3. Agent 0.0 1: 2700.00
+4. Agent 0.0 2: 2700.00
+5. Agent 0.0 3: 2700.00
+6. Agent 0.1 1: 2700.00
+7. Agent 0.2 1: 2700.00
+Resetting scores 
+
+
+Noisy:
+Round size: 10 - Player Agent immer C: 2.9160000000000004 - Player AgentMiller bricht aus: 3.056
+Round size: 500 - Player Agent immer C: 2.97444 - Player AgentMiller bricht aus: 3.01704
+Round size: 10000 - Player Agent immer C: 2.972838 - Player AgentMiller bricht aus: 3.018108
+Round size: 10 - Player Agent immer C: 2.718 - Player Agent 0.0 1: 3.188
+Round size: 500 - Player Agent immer C: 2.7064800000000004 - Player Agent 0.0 1: 3.19568
+Round size: 10000 - Player Agent immer C: 2.7028320000000003 - Player Agent 0.0 1: 3.198112
+Round size: 10 - Player Agent immer C: 2.742 - Player Agent 0.0 2: 3.1719999999999997
+Round size: 500 - Player Agent immer C: 2.70132 - Player Agent 0.0 2: 3.1991199999999997
+Round size: 10000 - Player Agent immer C: 2.70003 - Player Agent 0.0 2: 3.19998
+Round size: 10 - Player Agent immer C: 2.694 - Player Agent 0.0 3: 3.2039999999999997
+Round size: 500 - Player Agent immer C: 2.7080399999999996 - Player Agent 0.0 3: 3.19464
+Round size: 10000 - Player Agent immer C: 2.6991 - Player Agent 0.0 3: 3.2006
+Round size: 10 - Player Agent immer C: 2.748 - Player Agent 0.1 1: 3.168
+Round size: 500 - Player Agent immer C: 2.72688 - Player Agent 0.1 1: 3.1820800000000005
+Round size: 10000 - Player Agent immer C: 2.730054 - Player Agent 0.1 1: 3.179964
+Round size: 10 - Player Agent immer C: 2.82 - Player Agent 0.2 1: 3.12
+Round size: 500 - Player Agent immer C: 2.75772 - Player Agent 0.2 1: 3.16152
+Round size: 10000 - Player Agent immer C: 2.760996 - Player Agent 0.2 1: 3.159336
+Round size: 10 - Player AgentMiller bricht aus: 2.71 - Player Agent 0.0 1: 3.11
+Round size: 500 - Player AgentMiller bricht aus: 2.6688 - Player Agent 0.0 1: 3.1016000000000004
+Round size: 10000 - Player AgentMiller bricht aus: 2.6628160000000003 - Player Agent 0.0 1: 3.119856
+Round size: 10 - Player AgentMiller bricht aus: 2.7 - Player Agent 0.0 2: 3.17
+Round size: 500 - Player AgentMiller bricht aus: 2.6660000000000004 - Player Agent 0.0 2: 3.1254000000000004
+Round size: 10000 - Player AgentMiller bricht aus: 2.6675720000000003 - Player Agent 0.0 2: 3.119242
+Round size: 10 - Player AgentMiller bricht aus: 2.7319999999999998 - Player Agent 0.0 3: 3.1319999999999997
+Round size: 500 - Player AgentMiller bricht aus: 2.67072 - Player Agent 0.0 3: 3.1191199999999997
+Round size: 10000 - Player AgentMiller bricht aus: 2.664934 - Player Agent 0.0 3: 3.1165839999999996
+Round size: 10 - Player AgentMiller bricht aus: 2.786 - Player Agent 0.1 1: 3.076
+Round size: 500 - Player AgentMiller bricht aus: 2.7177999999999995 - Player Agent 0.1 1: 3.1082
+Round size: 10000 - Player AgentMiller bricht aus: 2.711952 - Player Agent 0.1 1: 3.1087819999999997
+Round size: 10 - Player AgentMiller bricht aus: 2.824 - Player Agent 0.2 1: 3.054
+Round size: 500 - Player AgentMiller bricht aus: 2.7587200000000003 - Player Agent 0.2 1: 3.09012
+Round size: 10000 - Player AgentMiller bricht aus: 2.7537040000000004 - Player Agent 0.2 1: 3.098814
+Round size: 10 - Player Agent 0.0 1: 2.66 - Player Agent 0.0 2: 2.64
+Round size: 500 - Player Agent 0.0 1: 2.24144 - Player Agent 0.0 2: 2.24904
+Round size: 10000 - Player Agent 0.0 1: 2.253646 - Player Agent 0.0 2: 2.253556
+Round size: 10 - Player Agent 0.0 1: 2.634 - Player Agent 0.0 3: 2.5639999999999996
+Round size: 500 - Player Agent 0.0 1: 2.25432 - Player Agent 0.0 3: 2.24852
+Round size: 10000 - Player Agent 0.0 1: 2.247192 - Player Agent 0.0 3: 2.247672
+Round size: 10 - Player Agent 0.0 1: 2.8 - Player Agent 0.1 1: 2.67
+Round size: 500 - Player Agent 0.0 1: 2.52684 - Player Agent 0.1 1: 2.40724
+Round size: 10000 - Player Agent 0.0 1: 2.509858 - Player Agent 0.1 1: 2.3939779999999997
+Round size: 10 - Player Agent 0.0 1: 2.7960000000000003 - Player Agent 0.2 1: 2.676
+Round size: 500 - Player Agent 0.0 1: 2.679 - Player Agent 0.2 1: 2.483
+Round size: 10000 - Player Agent 0.0 1: 2.688638 - Player Agent 0.2 1: 2.4840780000000002
+Round size: 10 - Player Agent 0.0 2: 2.64 - Player Agent 0.0 3: 2.63
+Round size: 500 - Player Agent 0.0 2: 2.2530799999999997 - Player Agent 0.0 3: 2.25848
+Round size: 10000 - Player Agent 0.0 2: 2.24779 - Player Agent 0.0 3: 2.2452099999999997
+Round size: 10 - Player Agent 0.0 2: 2.75 - Player Agent 0.1 1: 2.62
+Round size: 500 - Player Agent 0.0 2: 2.50684 - Player Agent 0.1 1: 2.39024
+Round size: 10000 - Player Agent 0.0 2: 2.5050399999999997 - Player Agent 0.1 1: 2.38928
+Round size: 10 - Player Agent 0.0 2: 2.798 - Player Agent 0.2 1: 2.6180000000000003
+Round size: 500 - Player Agent 0.0 2: 2.68728 - Player Agent 0.2 1: 2.47368
+Round size: 10000 - Player Agent 0.0 2: 2.6893939999999996 - Player Agent 0.2 1: 2.483514
+Round size: 10 - Player Agent 0.0 3: 2.738 - Player Agent 0.1 1: 2.628
+Round size: 500 - Player Agent 0.0 3: 2.50364 - Player Agent 0.1 1: 2.38404
+Round size: 10000 - Player Agent 0.0 3: 2.510278 - Player Agent 0.1 1: 2.392478
+Round size: 10 - Player Agent 0.0 3: 2.906 - Player Agent 0.2 1: 2.7260000000000004
+Round size: 500 - Player Agent 0.0 3: 2.6948399999999997 - Player Agent 0.2 1: 2.49964
+Round size: 10000 - Player Agent 0.0 3: 2.6874160000000002 - Player Agent 0.2 1: 2.484506
+Round size: 10 - Player Agent 0.1 1: 2.8539999999999996 - Player Agent 0.2 1: 2.844
+Round size: 500 - Player Agent 0.1 1: 2.7029199999999998 - Player Agent 0.2 1: 2.6217200000000003
+Round size: 10000 - Player Agent 0.1 1: 2.7130900000000002 - Player Agent 0.2 1: 2.6220100000000004
+Scores (Sorted):
+1. AgentMiller bricht aus: 2489.31
+2. Agent immer C: 2488.94
+3. Agent 0.2 1: 2485.00
+4. Agent 0.1 1: 2468.41
+5. Agent 0.0 2: 2460.29
+6. Agent 0.0 1: 2460.21
+7. Agent 0.0 3: 2460.05
+Resetting scores 
+
+
+Competition started with 7 agents
+Scores (Sorted):
+1. Agent immer C: 2700.00
+2. AgentMiller bricht aus: 2700.00
+3. Agent 0.0 1: 2700.00
+4. Agent 0.0 2: 2700.00
+5. Agent 0.0 3: 2700.00
+6. Agent 0.1 1: 2700.00
+7. Agent 0.2 1: 2700.00
+Resetting scores 
+
+
+Noisy:
+Round size: 10 - Player Agent immer C: 2.9160000000000004 - Player AgentMiller bricht aus: 3.056
+Round size: 500 - Player Agent immer C: 2.97444 - Player AgentMiller bricht aus: 3.01704
+Round size: 10000 - Player Agent immer C: 2.972838 - Player AgentMiller bricht aus: 3.018108
+Round size: 10 - Player Agent immer C: 2.718 - Player Agent 0.0 1: 3.188
+Round size: 500 - Player Agent immer C: 2.7064800000000004 - Player Agent 0.0 1: 3.19568
+Round size: 10000 - Player Agent immer C: 2.7028320000000003 - Player Agent 0.0 1: 3.198112
+Round size: 10 - Player Agent immer C: 2.742 - Player Agent 0.0 2: 3.1719999999999997
+Round size: 500 - Player Agent immer C: 2.70132 - Player Agent 0.0 2: 3.1991199999999997
+Round size: 10000 - Player Agent immer C: 2.70003 - Player Agent 0.0 2: 3.19998
+Round size: 10 - Player Agent immer C: 2.694 - Player Agent 0.0 3: 3.2039999999999997
+Round size: 500 - Player Agent immer C: 2.7080399999999996 - Player Agent 0.0 3: 3.19464
+Round size: 10000 - Player Agent immer C: 2.6991 - Player Agent 0.0 3: 3.2006
+Round size: 10 - Player Agent immer C: 2.748 - Player Agent 0.1 1: 3.168
+Round size: 500 - Player Agent immer C: 2.72688 - Player Agent 0.1 1: 3.1820800000000005
+Round size: 10000 - Player Agent immer C: 2.730054 - Player Agent 0.1 1: 3.179964
+Round size: 10 - Player Agent immer C: 2.82 - Player Agent 0.2 1: 3.12
+Round size: 500 - Player Agent immer C: 2.75772 - Player Agent 0.2 1: 3.16152
+Round size: 10000 - Player Agent immer C: 2.760996 - Player Agent 0.2 1: 3.159336
+Round size: 10 - Player AgentMiller bricht aus: 2.71 - Player Agent 0.0 1: 3.11
+Round size: 500 - Player AgentMiller bricht aus: 2.6688 - Player Agent 0.0 1: 3.1016000000000004
+Round size: 10000 - Player AgentMiller bricht aus: 2.6628160000000003 - Player Agent 0.0 1: 3.119856
+Round size: 10 - Player AgentMiller bricht aus: 2.7 - Player Agent 0.0 2: 3.17
+Round size: 500 - Player AgentMiller bricht aus: 2.6660000000000004 - Player Agent 0.0 2: 3.1254000000000004
+Round size: 10000 - Player AgentMiller bricht aus: 2.6675720000000003 - Player Agent 0.0 2: 3.119242
+Round size: 10 - Player AgentMiller bricht aus: 2.7319999999999998 - Player Agent 0.0 3: 3.1319999999999997
+Round size: 500 - Player AgentMiller bricht aus: 2.67072 - Player Agent 0.0 3: 3.1191199999999997
+Round size: 10000 - Player AgentMiller bricht aus: 2.664934 - Player Agent 0.0 3: 3.1165839999999996
+Round size: 10 - Player AgentMiller bricht aus: 2.786 - Player Agent 0.1 1: 3.076
+Round size: 500 - Player AgentMiller bricht aus: 2.7177999999999995 - Player Agent 0.1 1: 3.1082
+Round size: 10000 - Player AgentMiller bricht aus: 2.711952 - Player Agent 0.1 1: 3.1087819999999997
+Round size: 10 - Player AgentMiller bricht aus: 2.824 - Player Agent 0.2 1: 3.054
+Round size: 500 - Player AgentMiller bricht aus: 2.7587200000000003 - Player Agent 0.2 1: 3.09012
+Round size: 10000 - Player AgentMiller bricht aus: 2.7537040000000004 - Player Agent 0.2 1: 3.098814
+Round size: 10 - Player Agent 0.0 1: 2.66 - Player Agent 0.0 2: 2.64
+Round size: 500 - Player Agent 0.0 1: 2.24144 - Player Agent 0.0 2: 2.24904
+Round size: 10000 - Player Agent 0.0 1: 2.253646 - Player Agent 0.0 2: 2.253556
+Round size: 10 - Player Agent 0.0 1: 2.634 - Player Agent 0.0 3: 2.5639999999999996
+Round size: 500 - Player Agent 0.0 1: 2.25432 - Player Agent 0.0 3: 2.24852
+Round size: 10000 - Player Agent 0.0 1: 2.247192 - Player Agent 0.0 3: 2.247672
+Round size: 10 - Player Agent 0.0 1: 2.8 - Player Agent 0.1 1: 2.67
+Round size: 500 - Player Agent 0.0 1: 2.52684 - Player Agent 0.1 1: 2.40724
+Round size: 10000 - Player Agent 0.0 1: 2.509858 - Player Agent 0.1 1: 2.3939779999999997
+Round size: 10 - Player Agent 0.0 1: 2.7960000000000003 - Player Agent 0.2 1: 2.676
+Round size: 500 - Player Agent 0.0 1: 2.679 - Player Agent 0.2 1: 2.483
+Round size: 10000 - Player Agent 0.0 1: 2.688638 - Player Agent 0.2 1: 2.4840780000000002
+Round size: 10 - Player Agent 0.0 2: 2.64 - Player Agent 0.0 3: 2.63
+Round size: 500 - Player Agent 0.0 2: 2.2530799999999997 - Player Agent 0.0 3: 2.25848
+Round size: 10000 - Player Agent 0.0 2: 2.24779 - Player Agent 0.0 3: 2.2452099999999997
+Round size: 10 - Player Agent 0.0 2: 2.75 - Player Agent 0.1 1: 2.62
+Round size: 500 - Player Agent 0.0 2: 2.50684 - Player Agent 0.1 1: 2.39024
+Round size: 10000 - Player Agent 0.0 2: 2.5050399999999997 - Player Agent 0.1 1: 2.38928
+Round size: 10 - Player Agent 0.0 2: 2.798 - Player Agent 0.2 1: 2.6180000000000003
+Round size: 500 - Player Agent 0.0 2: 2.68728 - Player Agent 0.2 1: 2.47368
+Round size: 10000 - Player Agent 0.0 2: 2.6893939999999996 - Player Agent 0.2 1: 2.483514
+Round size: 10 - Player Agent 0.0 3: 2.738 - Player Agent 0.1 1: 2.628
+Round size: 500 - Player Agent 0.0 3: 2.50364 - Player Agent 0.1 1: 2.38404
+Round size: 10000 - Player Agent 0.0 3: 2.510278 - Player Agent 0.1 1: 2.392478
+Round size: 10 - Player Agent 0.0 3: 2.906 - Player Agent 0.2 1: 2.7260000000000004
+Round size: 500 - Player Agent 0.0 3: 2.6948399999999997 - Player Agent 0.2 1: 2.49964
+Round size: 10000 - Player Agent 0.0 3: 2.6874160000000002 - Player Agent 0.2 1: 2.484506
+Round size: 10 - Player Agent 0.1 1: 2.8539999999999996 - Player Agent 0.2 1: 2.844
+Round size: 500 - Player Agent 0.1 1: 2.7029199999999998 - Player Agent 0.2 1: 2.6217200000000003
+Round size: 10000 - Player Agent 0.1 1: 2.7130900000000002 - Player Agent 0.2 1: 2.6220100000000004
+Scores (Sorted):
+1. AgentMiller bricht aus: 2489.31
+2. Agent immer C: 2488.94
+3. Agent 0.2 1: 2485.00
+4. Agent 0.1 1: 2468.41
+5. Agent 0.0 2: 2460.29
+6. Agent 0.0 1: 2460.21
+7. Agent 0.0 3: 2460.05
+Resetting scores 
+
+
+Competition started with 7 agents
+Scores (Sorted):
+1. Agent immer C: 2700.00
+2. AgentMiller bricht aus: 2700.00
+3. Agent 0.0 1: 2700.00
+4. Agent 0.0 2: 2700.00
+5. Agent 0.0 3: 2700.00
+6. Agent 0.1 1: 2700.00
+7. Agent 0.2 1: 2700.00
+Resetting scores 
+
+
+Noisy:
+Round size: 10 - Player Agent immer C: 2.9160000000000004 - Player AgentMiller bricht aus: 3.056
+Round size: 500 - Player Agent immer C: 2.9718 - Player AgentMiller bricht aus: 3.0188
+Round size: 10000 - Player Agent immer C: 2.9729340000000004 - Player AgentMiller bricht aus: 3.0180439999999997
+Round size: 10 - Player Agent immer C: 2.694 - Player Agent 0.0 1: 3.2039999999999997
+Round size: 500 - Player Agent immer C: 2.70636 - Player Agent 0.0 1: 3.1957600000000004
+Round size: 10000 - Player Agent immer C: 2.7028559999999997 - Player Agent 0.0 1: 3.198096
+Round size: 10 - Player Agent immer C: 2.736 - Player Agent 0.0 2: 3.176
+Round size: 500 - Player Agent immer C: 2.70192 - Player Agent 0.0 2: 3.1987200000000002
+Round size: 10000 - Player Agent immer C: 2.700036 - Player Agent 0.0 2: 3.199976
+Round size: 10 - Player Agent immer C: 2.67 - Player Agent 0.0 3: 3.22
+Round size: 500 - Player Agent immer C: 2.70768 - Player Agent 0.0 3: 3.19488
+Round size: 10000 - Player Agent immer C: 2.699124 - Player Agent 0.0 3: 3.200584
+Round size: 10 - Player Agent immer C: 2.748 - Player Agent 0.1 1: 3.168
+Round size: 500 - Player Agent immer C: 2.72652 - Player Agent 0.1 1: 3.1823200000000003
+Round size: 10000 - Player Agent immer C: 2.730042 - Player Agent 0.1 1: 3.1799720000000002
+Round size: 10 - Player Agent immer C: 2.766 - Player Agent 0.2 1: 3.156
+Round size: 500 - Player Agent immer C: 2.7576 - Player Agent 0.2 1: 3.1616000000000004
+Round size: 10000 - Player Agent immer C: 2.76096 - Player Agent 0.2 1: 3.15936
+Round size: 10 - Player AgentMiller bricht aus: 2.7039999999999997 - Player Agent 0.0 1: 3.114
+Round size: 500 - Player AgentMiller bricht aus: 2.6513999999999998 - Player Agent 0.0 1: 3.0446
+Round size: 10000 - Player AgentMiller bricht aus: 2.670208 - Player Agent 0.0 1: 3.1227980000000004
+Round size: 10 - Player AgentMiller bricht aus: 2.72 - Player Agent 0.0 2: 3.15
+Round size: 500 - Player AgentMiller bricht aus: 2.6565600000000003 - Player Agent 0.0 2: 3.06736
+Round size: 10000 - Player AgentMiller bricht aus: 2.6749579999999997 - Player Agent 0.0 2: 3.1216980000000003
+Round size: 10 - Player AgentMiller bricht aus: 2.6919999999999997 - Player Agent 0.0 3: 3.142
+Round size: 500 - Player AgentMiller bricht aus: 2.64148 - Player Agent 0.0 3: 3.0502800000000003
+Round size: 10000 - Player AgentMiller bricht aus: 2.6738299999999997 - Player Agent 0.0 3: 3.12196
+Round size: 10 - Player AgentMiller bricht aus: 2.752 - Player Agent 0.1 1: 3.122
+Round size: 500 - Player AgentMiller bricht aus: 2.6992000000000003 - Player Agent 0.1 1: 3.0518
+Round size: 10000 - Player AgentMiller bricht aus: 2.718152 - Player Agent 0.1 1: 3.113642
+Round size: 10 - Player AgentMiller bricht aus: 2.858 - Player Agent 0.2 1: 3.048
+Round size: 500 - Player AgentMiller bricht aus: 2.7618799999999997 - Player Agent 0.2 1: 3.06488
+Round size: 10000 - Player AgentMiller bricht aus: 2.7571600000000003 - Player Agent 0.2 1: 3.10104
+Round size: 10 - Player Agent 0.0 1: 2.594 - Player Agent 0.0 2: 2.574
+Round size: 500 - Player Agent 0.0 1: 2.27864 - Player Agent 0.0 2: 2.28504
+Round size: 10000 - Player Agent 0.0 1: 2.2499100000000003 - Player Agent 0.0 2: 2.25132
+Round size: 10 - Player Agent 0.0 1: 2.68 - Player Agent 0.0 3: 2.62
+Round size: 500 - Player Agent 0.0 1: 2.26736 - Player Agent 0.0 3: 2.27416
+Round size: 10000 - Player Agent 0.0 1: 2.249768 - Player Agent 0.0 3: 2.2499379999999998
+Round size: 10 - Player Agent 0.0 1: 2.702 - Player Agent 0.1 1: 2.6919999999999997
+Round size: 500 - Player Agent 0.0 1: 2.51404 - Player Agent 0.1 1: 2.39384
+Round size: 10000 - Player Agent 0.0 1: 2.510264 - Player Agent 0.1 1: 2.394524
+Round size: 10 - Player Agent 0.0 1: 2.7939999999999996 - Player Agent 0.2 1: 2.7239999999999998
+Round size: 500 - Player Agent 0.0 1: 2.68052 - Player Agent 0.2 1: 2.48952
+Round size: 10000 - Player Agent 0.0 1: 2.6888279999999996 - Player Agent 0.2 1: 2.4832579999999997
+Round size: 10 - Player Agent 0.0 2: 2.542 - Player Agent 0.0 3: 2.642
+Round size: 500 - Player Agent 0.0 2: 2.2539599999999997 - Player Agent 0.0 3: 2.25916
+Round size: 10000 - Player Agent 0.0 2: 2.252752 - Player Agent 0.0 3: 2.255332
+Round size: 10 - Player Agent 0.0 2: 2.7460000000000004 - Player Agent 0.1 1: 2.576
+Round size: 500 - Player Agent 0.0 2: 2.4906 - Player Agent 0.1 1: 2.376
+Round size: 10000 - Player Agent 0.0 2: 2.506184 - Player Agent 0.1 1: 2.3897139999999997
+Round size: 10 - Player Agent 0.0 2: 2.7760000000000002 - Player Agent 0.2 1: 2.696
+Round size: 500 - Player Agent 0.0 2: 2.68488 - Player Agent 0.2 1: 2.48408
+Round size: 10000 - Player Agent 0.0 2: 2.6895299999999995 - Player Agent 0.2 1: 2.48322
+Round size: 10 - Player Agent 0.0 3: 2.742 - Player Agent 0.1 1: 2.792
+Round size: 500 - Player Agent 0.0 3: 2.5168 - Player Agent 0.1 1: 2.399
+Round size: 10000 - Player Agent 0.0 3: 2.51071 - Player Agent 0.1 1: 2.3922399999999997
+Round size: 10 - Player Agent 0.0 3: 2.83 - Player Agent 0.2 1: 2.62
+Round size: 500 - Player Agent 0.0 3: 2.6787599999999996 - Player Agent 0.2 1: 2.48436
+Round size: 10000 - Player Agent 0.0 3: 2.687852 - Player Agent 0.2 1: 2.484572
+Round size: 10 - Player Agent 0.1 1: 2.7939999999999996 - Player Agent 0.2 1: 2.764
+Round size: 500 - Player Agent 0.1 1: 2.70452 - Player Agent 0.2 1: 2.6219200000000003
+Round size: 10000 - Player Agent 0.1 1: 2.7136380000000004 - Player Agent 0.2 1: 2.622678
+Scores (Sorted):
+1. AgentMiller bricht aus: 2486.18
+2. Agent immer C: 2483.39
+3. Agent 0.2 1: 2482.42
+4. Agent 0.1 1: 2471.76
+5. Agent 0.0 3: 2459.82
+6. Agent 0.0 1: 2454.43
+7. Agent 0.0 2: 2448.30
+Resetting scores 
+
+
+Competition started with 7 agents
+Scores (Sorted):
+1. Agent immer C: 2700.00
+2. AgentMiller bricht aus: 2700.00
+3. Agent 0.0 1: 2700.00
+4. Agent 0.0 2: 2700.00
+5. Agent 0.0 3: 2700.00
+6. Agent 0.1 1: 2700.00
+7. Agent 0.2 1: 2700.00
+Resetting scores 
+
+
+Noisy:
+Round size: 10 - Player Agent immer C: 2.9160000000000004 - Player AgentMiller bricht aus: 3.056
+Round size: 500 - Player Agent immer C: 2.9718 - Player AgentMiller bricht aus: 3.0188
+Round size: 10000 - Player Agent immer C: 2.972886 - Player AgentMiller bricht aus: 3.0180759999999998
+Round size: 10 - Player Agent immer C: 2.7 - Player Agent 0.0 1: 3.2
+Round size: 500 - Player Agent immer C: 2.70684 - Player Agent 0.0 1: 3.1954399999999996
+Round size: 10000 - Player Agent immer C: 2.70285 - Player Agent 0.0 1: 3.1981
+Round size: 10 - Player Agent immer C: 2.7239999999999998 - Player Agent 0.0 2: 3.1839999999999997
+Round size: 500 - Player Agent immer C: 2.70168 - Player Agent 0.0 2: 3.19888
+Round size: 10000 - Player Agent immer C: 2.70003 - Player Agent 0.0 2: 3.19998
+Round size: 10 - Player Agent immer C: 2.688 - Player Agent 0.0 3: 3.208
+Round size: 500 - Player Agent immer C: 2.7077999999999998 - Player Agent 0.0 3: 3.1948000000000003
+Round size: 10000 - Player Agent immer C: 2.699106 - Player Agent 0.0 3: 3.200596
+Round size: 10 - Player Agent immer C: 2.748 - Player Agent 0.1 1: 3.168
+Round size: 500 - Player Agent immer C: 2.72652 - Player Agent 0.1 1: 3.1823200000000003
+Round size: 10000 - Player Agent immer C: 2.7300839999999997 - Player Agent 0.1 1: 3.179944
+Round size: 10 - Player Agent immer C: 2.838 - Player Agent 0.2 1: 3.108
+Round size: 500 - Player Agent immer C: 2.75772 - Player Agent 0.2 1: 3.16152
+Round size: 10000 - Player Agent immer C: 2.760996 - Player Agent 0.2 1: 3.159336
+Round size: 10 - Player AgentMiller bricht aus: 2.71 - Player Agent 0.0 1: 3.11
+Round size: 500 - Player AgentMiller bricht aus: 2.6494400000000002 - Player Agent 0.0 1: 3.0444400000000003
+Round size: 10000 - Player AgentMiller bricht aus: 2.675856 - Player Agent 0.0 1: 3.137106
+Round size: 10 - Player AgentMiller bricht aus: 2.698 - Player Agent 0.0 2: 3.138
+Round size: 500 - Player AgentMiller bricht aus: 2.65272 - Player Agent 0.0 2: 3.0629199999999996
+Round size: 10000 - Player AgentMiller bricht aus: 2.677474 - Player Agent 0.0 2: 3.133304
+Round size: 10 - Player AgentMiller bricht aus: 2.7060000000000004 - Player Agent 0.0 3: 3.076
+Round size: 500 - Player AgentMiller bricht aus: 2.64468 - Player Agent 0.0 3: 3.05208
+Round size: 10000 - Player AgentMiller bricht aus: 2.677592 - Player Agent 0.0 3: 3.1374619999999998
+Round size: 10 - Player AgentMiller bricht aus: 2.708 - Player Agent 0.1 1: 3.128
+Round size: 500 - Player AgentMiller bricht aus: 2.71344 - Player Agent 0.1 1: 3.05224
+Round size: 10000 - Player AgentMiller bricht aus: 2.719364 - Player Agent 0.1 1: 3.1203640000000004
+Round size: 10 - Player AgentMiller bricht aus: 2.7319999999999998 - Player Agent 0.2 1: 3.112
+Round size: 500 - Player AgentMiller bricht aus: 2.75852 - Player Agent 0.2 1: 3.06012
+Round size: 10000 - Player AgentMiller bricht aus: 2.7579559999999996 - Player Agent 0.2 1: 3.105666
+Round size: 10 - Player Agent 0.0 1: 2.614 - Player Agent 0.0 2: 2.5540000000000003
+Round size: 500 - Player Agent 0.0 1: 2.2548 - Player Agent 0.0 2: 2.2506
+Round size: 10000 - Player Agent 0.0 1: 2.249354 - Player Agent 0.0 2: 2.2477940000000003
+Round size: 10 - Player Agent 0.0 1: 2.58 - Player Agent 0.0 3: 2.59
+Round size: 500 - Player Agent 0.0 1: 2.25856 - Player Agent 0.0 3: 2.2623599999999997
+Round size: 10000 - Player Agent 0.0 1: 2.255466 - Player Agent 0.0 3: 2.253946
+Round size: 10 - Player Agent 0.0 1: 2.6439999999999997 - Player Agent 0.1 1: 2.6639999999999997
+Round size: 500 - Player Agent 0.0 1: 2.51092 - Player Agent 0.1 1: 2.39132
+Round size: 10000 - Player Agent 0.0 1: 2.510612 - Player Agent 0.1 1: 2.3949219999999998
+Round size: 10 - Player Agent 0.0 1: 2.792 - Player Agent 0.2 1: 2.612
+Round size: 500 - Player Agent 0.0 1: 2.66864 - Player Agent 0.2 1: 2.47824
+Round size: 10000 - Player Agent 0.0 1: 2.688812 - Player Agent 0.2 1: 2.4838620000000002
+Round size: 10 - Player Agent 0.0 2: 2.634 - Player Agent 0.0 3: 2.594
+Round size: 500 - Player Agent 0.0 2: 2.2527600000000003 - Player Agent 0.0 3: 2.24396
+Round size: 10000 - Player Agent 0.0 2: 2.255234 - Player Agent 0.0 3: 2.252114
+Round size: 10 - Player Agent 0.0 2: 2.6839999999999997 - Player Agent 0.1 1: 2.614
+Round size: 500 - Player Agent 0.0 2: 2.49612 - Player Agent 0.1 1: 2.37912
+Round size: 10000 - Player Agent 0.0 2: 2.5050380000000003 - Player Agent 0.1 1: 2.388968
+Round size: 10 - Player Agent 0.0 2: 2.6860000000000004 - Player Agent 0.2 1: 2.596
+Round size: 500 - Player Agent 0.0 2: 2.67676 - Player Agent 0.2 1: 2.46876
+Round size: 10000 - Player Agent 0.0 2: 2.6889800000000004 - Player Agent 0.2 1: 2.4830799999999997
+Round size: 10 - Player Agent 0.0 3: 2.736 - Player Agent 0.1 1: 2.576
+Round size: 500 - Player Agent 0.0 3: 2.494 - Player Agent 0.1 1: 2.3914
+Round size: 10000 - Player Agent 0.0 3: 2.50997 - Player Agent 0.1 1: 2.39238
+Round size: 10 - Player Agent 0.0 3: 2.85 - Player Agent 0.2 1: 2.65
+Round size: 500 - Player Agent 0.0 3: 2.7012 - Player Agent 0.2 1: 2.496
+Round size: 10000 - Player Agent 0.0 3: 2.686988 - Player Agent 0.2 1: 2.4840880000000003
+Round size: 10 - Player Agent 0.1 1: 2.84 - Player Agent 0.2 1: 2.8
+Round size: 500 - Player Agent 0.1 1: 2.70832 - Player Agent 0.2 1: 2.6211200000000003
+Round size: 10000 - Player Agent 0.1 1: 2.713204 - Player Agent 0.2 1: 2.6221039999999998
+Scores (Sorted):
+1. Agent immer C: 2487.62
+2. AgentMiller bricht aus: 2478.70
+3. Agent 0.2 1: 2475.09
+4. Agent 0.1 1: 2464.23
+5. Agent 0.0 3: 2452.17
+6. Agent 0.0 1: 2445.61
+7. Agent 0.0 2: 2442.42
+Resetting scores 
+
+
+Competition started with 8 agents
+Noisy:
+Competition started with 8 agents
+Noisy:
+Competition started with 9 agents
+Noisy:
+Round size: 10 - Player Agent immer C: 2.58 - Player AgentMiller bricht aus 124: 3.28
+Round size: 500 - Player Agent immer C: 2.976 - Player AgentMiller bricht aus 124: 3.016
+Round size: 10000 - Player Agent immer C: 2.999775 - Player AgentMiller bricht aus 124: 3.00015
+Round size: 10 - Player Agent immer C: 2.715 - Player AgentMiller bricht aus 124 2: 3.19
+Round size: 500 - Player Agent immer C: 2.9778 - Player AgentMiller bricht aus 124 2: 3.0148
+Round size: 10000 - Player Agent immer C: 2.99973 - Player AgentMiller bricht aus 124 2: 3.00018
+Round size: 10 - Player Agent immer C: 2.9699999999999998 - Player AgentMiller bricht aus 235: 3.02
+Round size: 500 - Player Agent immer C: 2.9973 - Player AgentMiller bricht aus 235: 3.0018000000000002
+Round size: 10000 - Player Agent immer C: 2.99988 - Player AgentMiller bricht aus 235: 3.00008
+Round size: 10 - Player Agent immer C: 2.805 - Player Agent 0.0 1: 3.13
+Round size: 500 - Player Agent immer C: 2.7114000000000003 - Player Agent 0.0 1: 3.1924
+Round size: 10000 - Player Agent immer C: 2.702025 - Player Agent 0.0 1: 3.1986499999999998
+Round size: 10 - Player Agent immer C: 2.7600000000000002 - Player Agent 0.0 2: 3.16
+Round size: 500 - Player Agent immer C: 2.7239999999999998 - Player Agent 0.0 2: 3.184
+Round size: 10000 - Player Agent immer C: 2.702925 - Player Agent 0.0 2: 3.19805
+Round size: 10 - Player Agent immer C: 2.82 - Player Agent 0.0 3: 3.12
+Round size: 500 - Player Agent immer C: 2.712 - Player Agent 0.0 3: 3.192
+Round size: 10000 - Player Agent immer C: 2.699025 - Player Agent 0.0 3: 3.2006500000000004
+Round size: 10 - Player Agent immer C: 2.8649999999999998 - Player Agent 0.1 1: 3.09
+Round size: 500 - Player Agent immer C: 2.7129000000000003 - Player Agent 0.1 1: 3.1914000000000002
+Round size: 10000 - Player Agent immer C: 2.7326550000000003 - Player Agent 0.1 1: 3.17823
+Round size: 10 - Player Agent immer C: 2.835 - Player Agent 0.2 1: 3.1100000000000003
+Round size: 500 - Player Agent immer C: 2.7681 - Player Agent 0.2 1: 3.1546
+Round size: 10000 - Player Agent immer C: 2.75835 - Player Agent 0.2 1: 3.1611000000000002
+Round size: 10 - Player AgentMiller bricht aus 124: 2.755 - Player AgentMiller bricht aus 124 2: 2.6550000000000002
+Round size: 500 - Player AgentMiller bricht aus 124: 2.9828 - Player AgentMiller bricht aus 124 2: 2.9873000000000003
+Round size: 10000 - Player AgentMiller bricht aus 124: 2.99988 - Player AgentMiller bricht aus 124 2: 2.999955
+Round size: 10 - Player AgentMiller bricht aus 124: 2.9699999999999998 - Player AgentMiller bricht aus 235: 2.77
+Round size: 500 - Player AgentMiller bricht aus 124: 3.0098 - Player AgentMiller bricht aus 235: 2.9773
+Round size: 10000 - Player AgentMiller bricht aus 124: 3.00013 - Player AgentMiller bricht aus 235: 2.999755
+Round size: 10 - Player AgentMiller bricht aus 124: 2.605 - Player Agent 0.0 1: 2.755
+Round size: 500 - Player AgentMiller bricht aus 124: 2.6582 - Player Agent 0.0 1: 3.1192
+Round size: 10000 - Player AgentMiller bricht aus 124: 2.698045 - Player Agent 0.0 1: 3.19777
+Round size: 10 - Player AgentMiller bricht aus 124: 2.685 - Player Agent 0.0 2: 2.81
+Round size: 500 - Player AgentMiller bricht aus 124: 2.6873 - Player Agent 0.0 2: 3.1193
+Round size: 10000 - Player AgentMiller bricht aus 124: 2.7000599999999997 - Player Agent 0.0 2: 3.197635
+Round size: 10 - Player AgentMiller bricht aus 124: 2.415 - Player Agent 0.0 3: 2.84
+Round size: 500 - Player AgentMiller bricht aus 124: 2.6553 - Player Agent 0.0 3: 3.1303
+Round size: 10000 - Player AgentMiller bricht aus 124: 2.696795 - Player Agent 0.0 3: 3.19877
+Round size: 10 - Player AgentMiller bricht aus 124: 2.8649999999999998 - Player Agent 0.1 1: 2.665
+Round size: 500 - Player AgentMiller bricht aus 124: 2.729 - Player Agent 0.1 1: 3.1015
+Round size: 10000 - Player AgentMiller bricht aus 124: 2.73088 - Player Agent 0.1 1: 3.1770050000000003
+Round size: 10 - Player AgentMiller bricht aus 124: 2.875 - Player Agent 0.2 1: 2.8
+Round size: 500 - Player AgentMiller bricht aus 124: 2.7558 - Player Agent 0.2 1: 3.1073
+Round size: 10000 - Player AgentMiller bricht aus 124: 2.7603549999999997 - Player Agent 0.2 1: 3.1579550000000003
+Round size: 10 - Player AgentMiller bricht aus 124 2: 2.955 - Player AgentMiller bricht aus 235: 2.63
+Round size: 500 - Player AgentMiller bricht aus 124 2: 3.0171 - Player AgentMiller bricht aus 235: 2.9706
+Round size: 10000 - Player AgentMiller bricht aus 124 2: 3.00017 - Player AgentMiller bricht aus 235: 2.99967
+Round size: 10 - Player AgentMiller bricht aus 124 2: 2.5100000000000002 - Player Agent 0.0 1: 2.6350000000000002
+Round size: 500 - Player AgentMiller bricht aus 124 2: 2.6467 - Player Agent 0.0 1: 3.0837
+Round size: 10000 - Player AgentMiller bricht aus 124 2: 2.6941949999999997 - Player Agent 0.0 1: 3.19842
+Round size: 10 - Player AgentMiller bricht aus 124 2: 2.58 - Player Agent 0.0 2: 2.555
+Round size: 500 - Player AgentMiller bricht aus 124 2: 2.6409 - Player Agent 0.0 2: 3.0754
+Round size: 10000 - Player AgentMiller bricht aus 124 2: 2.70046 - Player Agent 0.0 2: 3.19556
+Round size: 10 - Player AgentMiller bricht aus 124 2: 2.56 - Player Agent 0.0 3: 2.46
+Round size: 500 - Player AgentMiller bricht aus 124 2: 2.6344000000000003 - Player Agent 0.0 3: 3.0728999999999997
+Round size: 10000 - Player AgentMiller bricht aus 124 2: 2.699025 - Player Agent 0.0 3: 3.195975
+Round size: 10 - Player AgentMiller bricht aus 124 2: 2.685 - Player Agent 0.1 1: 2.66
+Round size: 500 - Player AgentMiller bricht aus 124 2: 2.6955999999999998 - Player Agent 0.1 1: 3.0831
+Round size: 10000 - Player AgentMiller bricht aus 124 2: 2.72983 - Player Agent 0.1 1: 3.17748
+Round size: 10 - Player AgentMiller bricht aus 124 2: 2.745 - Player Agent 0.2 1: 2.695
+Round size: 500 - Player AgentMiller bricht aus 124 2: 2.7640000000000002 - Player Agent 0.2 1: 3.086
+Round size: 10000 - Player AgentMiller bricht aus 124 2: 2.76373 - Player Agent 0.2 1: 3.154955
+Round size: 10 - Player AgentMiller bricht aus 235: 2.755 - Player Agent 0.0 1: 3.105
+Round size: 500 - Player AgentMiller bricht aus 235: 2.6774999999999998 - Player Agent 0.0 1: 3.163
+Round size: 10000 - Player AgentMiller bricht aus 235: 2.70255 - Player Agent 0.0 1: 3.19785
+Round size: 10 - Player AgentMiller bricht aus 235: 2.7199999999999998 - Player Agent 0.0 2: 3.145
+Round size: 500 - Player AgentMiller bricht aus 235: 2.689 - Player Agent 0.0 2: 3.1885000000000003
+Round size: 10000 - Player AgentMiller bricht aus 235: 2.702355 - Player Agent 0.0 2: 3.197455
+Round size: 10 - Player AgentMiller bricht aus 235: 2.69 - Player Agent 0.0 3: 3.165
+Round size: 500 - Player AgentMiller bricht aus 235: 2.6882 - Player Agent 0.0 3: 3.1922
+Round size: 10000 - Player AgentMiller bricht aus 235: 2.696975 - Player Agent 0.0 3: 3.2017
+Round size: 10 - Player AgentMiller bricht aus 235: 2.695 - Player Agent 0.1 1: 3.045
+Round size: 500 - Player AgentMiller bricht aus 235: 2.7228000000000003 - Player Agent 0.1 1: 3.1683
+Round size: 10000 - Player AgentMiller bricht aus 235: 2.73354 - Player Agent 0.1 1: 3.17709
+Round size: 10 - Player AgentMiller bricht aus 235: 2.775 - Player Agent 0.2 1: 3.125
+Round size: 500 - Player AgentMiller bricht aus 235: 2.7579000000000002 - Player Agent 0.2 1: 3.1484
+Round size: 10000 - Player AgentMiller bricht aus 235: 2.7611999999999997 - Player Agent 0.2 1: 3.15875
+Round size: 10 - Player Agent 0.0 1: 2.69 - Player Agent 0.0 2: 2.69
+Round size: 500 - Player Agent 0.0 1: 2.2403 - Player Agent 0.0 2: 2.2593
+Round size: 10000 - Player Agent 0.0 1: 2.2458400000000003 - Player Agent 0.0 2: 2.247865
+Round size: 10 - Player Agent 0.0 1: 2.5100000000000002 - Player Agent 0.0 3: 2.46
+Round size: 500 - Player Agent 0.0 1: 2.2344999999999997 - Player Agent 0.0 3: 2.2405
+Round size: 10000 - Player Agent 0.0 1: 2.251585 - Player Agent 0.0 3: 2.25116
+Round size: 10 - Player Agent 0.0 1: 2.6 - Player Agent 0.1 1: 2.625
+Round size: 500 - Player Agent 0.0 1: 2.527 - Player Agent 0.1 1: 2.41
+Round size: 10000 - Player Agent 0.0 1: 2.514305 - Player Agent 0.1 1: 2.397805
+Round size: 10 - Player Agent 0.0 1: 2.84 - Player Agent 0.2 1: 2.8649999999999998
+Round size: 500 - Player Agent 0.0 1: 2.6869 - Player Agent 0.2 1: 2.4974
+Round size: 10000 - Player Agent 0.0 1: 2.6893149999999997 - Player Agent 0.2 1: 2.48079
+Round size: 10 - Player Agent 0.0 2: 2.4850000000000003 - Player Agent 0.0 3: 2.5100000000000002
+Round size: 500 - Player Agent 0.0 2: 2.2796 - Player Agent 0.0 3: 2.2846
+Round size: 10000 - Player Agent 0.0 2: 2.246615 - Player Agent 0.0 3: 2.250665
+Round size: 10 - Player Agent 0.0 2: 2.7399999999999998 - Player Agent 0.1 1: 2.59
+Round size: 500 - Player Agent 0.0 2: 2.5091 - Player Agent 0.1 1: 2.3975999999999997
+Round size: 10000 - Player Agent 0.0 2: 2.51714 - Player Agent 0.1 1: 2.3986899999999998
+Round size: 10 - Player Agent 0.0 2: 2.955 - Player Agent 0.2 1: 2.6550000000000002
+Round size: 500 - Player Agent 0.0 2: 2.6973 - Player Agent 0.2 1: 2.4758
+Round size: 10000 - Player Agent 0.0 2: 2.687085 - Player Agent 0.2 1: 2.48266
+Round size: 10 - Player Agent 0.0 3: 2.8649999999999998 - Player Agent 0.1 1: 2.6149999999999998
+Round size: 500 - Player Agent 0.0 3: 2.4983 - Player Agent 0.1 1: 2.3777999999999997
+Round size: 10000 - Player Agent 0.0 3: 2.51093 - Player Agent 0.1 1: 2.3984300000000003
+Round size: 10 - Player Agent 0.0 3: 2.825 - Player Agent 0.2 1: 2.725
+Round size: 500 - Player Agent 0.0 3: 2.6856999999999998 - Player Agent 0.2 1: 2.4777
+Round size: 10000 - Player Agent 0.0 3: 2.692545 - Player Agent 0.2 1: 2.48822
+Round size: 10 - Player Agent 0.1 1: 2.805 - Player Agent 0.2 1: 2.755
+Round size: 500 - Player Agent 0.1 1: 2.7138 - Player Agent 0.2 1: 2.6208
+Round size: 10000 - Player Agent 0.1 1: 2.71462 - Player Agent 0.2 1: 2.62337
+Scores (Sorted):
+1. Agent 0.2 1: 1360.12
+2. AgentMiller bricht aus 124: 1350.61
+3. Agent immer C: 1350.48
+4. Agent 0.0 2: 1346.80
+5. Agent 0.1 1: 1343.16
+6. AgentMiller bricht aus 235: 1342.72
+7. Agent 0.0 3: 1340.88
+8. Agent 0.0 1: 1340.11
+9. AgentMiller bricht aus 124 2: 1337.37
+Resetting scores 
+
+
+Competition started with 12 agents
+Noisy:
+Round size: 10 - Player Agent immer C: 2.58 - Player AgentMiller bricht aus 124 0.1: 3.28
+Round size: 500 - Player Agent immer C: 2.976 - Player AgentMiller bricht aus 124 0.1: 3.016
+Round size: 10000 - Player Agent immer C: 2.999775 - Player AgentMiller bricht aus 124 0.1: 3.00015
+Round size: 10 - Player Agent immer C: 2.715 - Player AgentMiller bricht aus 124 0.0: 3.19
+Round size: 500 - Player Agent immer C: 2.9778 - Player AgentMiller bricht aus 124 0.0: 3.0148
+Round size: 10000 - Player Agent immer C: 2.99973 - Player AgentMiller bricht aus 124 0.0: 3.00018
+Round size: 10 - Player Agent immer C: 2.715 - Player AgentMiller bricht aus 124 0.2: 3.19
+Round size: 500 - Player Agent immer C: 2.9754 - Player AgentMiller bricht aus 124 0.2: 3.0164
+Round size: 10000 - Player Agent immer C: 2.99982 - Player AgentMiller bricht aus 124 0.2: 3.00012
+Round size: 10 - Player Agent immer C: 2.94 - Player AgentMiller bricht aus 235 0.0: 3.04
+Round size: 500 - Player Agent immer C: 2.9964 - Player AgentMiller bricht aus 235 0.0: 3.0024
+Round size: 10000 - Player Agent immer C: 2.9999700000000002 - Player AgentMiller bricht aus 235 0.0: 3.00002
+Round size: 10 - Player Agent immer C: 2.9699999999999998 - Player AgentMiller bricht aus 235 0.1: 3.02
+Round size: 500 - Player Agent immer C: 2.9981999999999998 - Player AgentMiller bricht aus 235 0.1: 3.0012
+Round size: 10000 - Player Agent immer C: 2.999955 - Player AgentMiller bricht aus 235 0.1: 3.0000299999999998
+Round size: 10 - Player Agent immer C: 2.9699999999999998 - Player AgentMiller bricht aus 235 0.2: 3.02
+Round size: 500 - Player Agent immer C: 2.9966999999999997 - Player AgentMiller bricht aus 235 0.2: 3.0021999999999998
+Round size: 10000 - Player Agent immer C: 2.9999849999999997 - Player AgentMiller bricht aus 235 0.2: 3.00001
+Round size: 10 - Player Agent immer C: 2.6399999999999997 - Player Agent 0.0 1: 3.2399999999999998
+Round size: 500 - Player Agent immer C: 2.6991 - Player Agent 0.0 1: 3.2006
+Round size: 10000 - Player Agent immer C: 2.700765 - Player Agent 0.0 1: 3.19949
+Round size: 10 - Player Agent immer C: 2.715 - Player Agent 0.0 2: 3.19
+Round size: 500 - Player Agent immer C: 2.6988 - Player Agent 0.0 2: 3.2008
+Round size: 10000 - Player Agent immer C: 2.699655 - Player Agent 0.0 2: 3.20023
+Round size: 10 - Player Agent immer C: 2.7600000000000002 - Player Agent 0.0 3: 3.16
+Round size: 500 - Player Agent immer C: 2.685 - Player Agent 0.0 3: 3.21
+Round size: 10000 - Player Agent immer C: 2.701785 - Player Agent 0.0 3: 3.19881
+Round size: 10 - Player Agent immer C: 2.7600000000000002 - Player Agent 0.1 1: 3.16
+Round size: 500 - Player Agent immer C: 2.7198 - Player Agent 0.1 1: 3.1868
+Round size: 10000 - Player Agent immer C: 2.7290400000000004 - Player Agent 0.1 1: 3.18064
+Round size: 10 - Player Agent immer C: 2.85 - Player Agent 0.2 1: 3.1
+Round size: 500 - Player Agent immer C: 2.7693000000000003 - Player Agent 0.2 1: 3.1538
+Round size: 10000 - Player Agent immer C: 2.7603 - Player Agent 0.2 1: 3.1597999999999997
+Round size: 10 - Player AgentMiller bricht aus 124 0.1: 2.575 - Player AgentMiller bricht aus 124 0.0: 2.65
+Round size: 500 - Player AgentMiller bricht aus 124 0.1: 2.9841 - Player AgentMiller bricht aus 124 0.0: 2.9890999999999996
+Round size: 10000 - Player AgentMiller bricht aus 124 0.1: 2.999625 - Player AgentMiller bricht aus 124 0.0: 3.000075
+Round size: 10 - Player AgentMiller bricht aus 124 0.1: 2.775 - Player AgentMiller bricht aus 124 0.2: 2.85
+Round size: 500 - Player AgentMiller bricht aus 124 0.1: 2.9877 - Player AgentMiller bricht aus 124 0.2: 2.9882
+Round size: 10000 - Player AgentMiller bricht aus 124 0.1: 2.9997499999999997 - Player AgentMiller bricht aus 124 0.2: 3.00005
+Round size: 10 - Player AgentMiller bricht aus 124 0.1: 2.965 - Player AgentMiller bricht aus 235 0.0: 2.59
+Round size: 500 - Player AgentMiller bricht aus 124 0.1: 3.0119 - Player AgentMiller bricht aus 235 0.0: 2.9783999999999997
+Round size: 10000 - Player AgentMiller bricht aus 124 0.1: 3.000175 - Player AgentMiller bricht aus 235 0.0: 2.999725
+Round size: 10 - Player AgentMiller bricht aus 124 0.1: 3.1350000000000002 - Player AgentMiller bricht aus 235 0.1: 2.7350000000000003
+Round size: 500 - Player AgentMiller bricht aus 124 0.1: 3.0147 - Player AgentMiller bricht aus 235 0.1: 2.9717
+Round size: 10000 - Player AgentMiller bricht aus 124 0.1: 3.00021 - Player AgentMiller bricht aus 235 0.1: 2.99966
+Round size: 10 - Player AgentMiller bricht aus 124 0.1: 3.035 - Player AgentMiller bricht aus 235 0.2: 2.785
+Round size: 500 - Player AgentMiller bricht aus 124 0.1: 3.0164 - Player AgentMiller bricht aus 235 0.2: 2.9719
+Round size: 10000 - Player AgentMiller bricht aus 124 0.1: 3.000085 - Player AgentMiller bricht aus 235 0.2: 2.999835
+Round size: 10 - Player AgentMiller bricht aus 124 0.1: 2.7649999999999997 - Player Agent 0.0 1: 2.665
+Round size: 500 - Player AgentMiller bricht aus 124 0.1: 2.6745 - Player Agent 0.0 1: 3.106
+Round size: 10000 - Player AgentMiller bricht aus 124 0.1: 2.696485 - Player Agent 0.0 1: 3.19861
+Round size: 10 - Player AgentMiller bricht aus 124 0.1: 2.6399999999999997 - Player Agent 0.0 2: 2.7399999999999998
+Round size: 500 - Player AgentMiller bricht aus 124 0.1: 2.6496 - Player Agent 0.0 2: 3.1236
+Round size: 10000 - Player AgentMiller bricht aus 124 0.1: 2.69879 - Player Agent 0.0 2: 3.197215
+Round size: 10 - Player AgentMiller bricht aus 124 0.1: 2.585 - Player Agent 0.0 3: 2.6100000000000003
+Round size: 500 - Player AgentMiller bricht aus 124 0.1: 2.6553 - Player Agent 0.0 3: 3.1288
+Round size: 10000 - Player AgentMiller bricht aus 124 0.1: 2.70057 - Player Agent 0.0 3: 3.196845
+Round size: 10 - Player AgentMiller bricht aus 124 0.1: 2.73 - Player Agent 0.1 1: 2.73
+Round size: 500 - Player AgentMiller bricht aus 124 0.1: 2.6995 - Player Agent 0.1 1: 3.122
+Round size: 10000 - Player AgentMiller bricht aus 124 0.1: 2.7307449999999998 - Player Agent 0.1 1: 3.176945
+Round size: 10 - Player AgentMiller bricht aus 124 0.1: 2.855 - Player Agent 0.2 1: 2.83
+Round size: 500 - Player AgentMiller bricht aus 124 0.1: 2.7514 - Player Agent 0.2 1: 3.1088999999999998
+Round size: 10000 - Player AgentMiller bricht aus 124 0.1: 2.76471 - Player Agent 0.2 1: 3.15516
+Round size: 10 - Player AgentMiller bricht aus 124 0.0: 2.715 - Player AgentMiller bricht aus 124 0.2: 2.6399999999999997
+Round size: 500 - Player AgentMiller bricht aus 124 0.0: 2.9867 - Player AgentMiller bricht aus 124 0.2: 2.9861999999999997
+Round size: 10000 - Player AgentMiller bricht aus 124 0.0: 3.0001100000000003 - Player AgentMiller bricht aus 124 0.2: 2.999685
+Round size: 10 - Player AgentMiller bricht aus 124 0.0: 3.075 - Player AgentMiller bricht aus 235 0.0: 2.825
+Round size: 500 - Player AgentMiller bricht aus 124 0.0: 3.0163 - Player AgentMiller bricht aus 235 0.0: 2.9613
+Round size: 10000 - Player AgentMiller bricht aus 124 0.0: 3.000165 - Player AgentMiller bricht aus 235 0.0: 2.999715
+Round size: 10 - Player AgentMiller bricht aus 124 0.0: 3.06 - Player AgentMiller bricht aus 235 0.1: 2.81
+Round size: 500 - Player AgentMiller bricht aus 124 0.0: 3.0185 - Player AgentMiller bricht aus 235 0.1: 2.9705
+Round size: 10000 - Player AgentMiller bricht aus 124 0.0: 3.000225 - Player AgentMiller bricht aus 235 0.1: 2.99965
+Round size: 10 - Player AgentMiller bricht aus 124 0.0: 3.09 - Player AgentMiller bricht aus 235 0.2: 2.7399999999999998
+Round size: 500 - Player AgentMiller bricht aus 124 0.0: 3.0170000000000003 - Player AgentMiller bricht aus 235 0.2: 2.971
+Round size: 10000 - Player AgentMiller bricht aus 124 0.0: 3.0001349999999998 - Player AgentMiller bricht aus 235 0.2: 2.9997599999999998
+Round size: 10 - Player AgentMiller bricht aus 124 0.0: 2.555 - Player Agent 0.0 1: 2.6550000000000002
+Round size: 500 - Player AgentMiller bricht aus 124 0.0: 2.6271999999999998 - Player Agent 0.0 1: 3.0842
+Round size: 10000 - Player AgentMiller bricht aus 124 0.0: 2.699475 - Player Agent 0.0 1: 3.195675
+Round size: 10 - Player AgentMiller bricht aus 124 0.0: 2.355 - Player Agent 0.0 2: 2.5300000000000002
+Round size: 500 - Player AgentMiller bricht aus 124 0.0: 2.6667 - Player Agent 0.0 2: 3.1027
+Round size: 10000 - Player AgentMiller bricht aus 124 0.0: 2.7007950000000003 - Player Agent 0.0 2: 3.19547
+Round size: 10 - Player AgentMiller bricht aus 124 0.0: 2.68 - Player Agent 0.0 3: 2.63
+Round size: 500 - Player AgentMiller bricht aus 124 0.0: 2.6445 - Player Agent 0.0 3: 3.0975
+Round size: 10000 - Player AgentMiller bricht aus 124 0.0: 2.69688 - Player Agent 0.0 3: 3.197655
+Round size: 10 - Player AgentMiller bricht aus 124 0.0: 2.68 - Player Agent 0.1 1: 2.555
+Round size: 500 - Player AgentMiller bricht aus 124 0.0: 2.6940999999999997 - Player Agent 0.1 1: 3.0886
+Round size: 10000 - Player AgentMiller bricht aus 124 0.0: 2.72682 - Player Agent 0.1 1: 3.179045
+Round size: 10 - Player AgentMiller bricht aus 124 0.0: 2.795 - Player Agent 0.2 1: 2.62
+Round size: 500 - Player AgentMiller bricht aus 124 0.0: 2.7675 - Player Agent 0.2 1: 3.0845
+Round size: 10000 - Player AgentMiller bricht aus 124 0.0: 2.757995 - Player Agent 0.2 1: 3.159395
+Round size: 10 - Player AgentMiller bricht aus 124 0.2: 3.055 - Player AgentMiller bricht aus 235 0.0: 2.9050000000000002
+Round size: 500 - Player AgentMiller bricht aus 124 0.2: 3.0123 - Player AgentMiller bricht aus 235 0.0: 2.9783
+Round size: 10000 - Player AgentMiller bricht aus 124 0.2: 3.000105 - Player AgentMiller bricht aus 235 0.0: 2.999805
+Round size: 10 - Player AgentMiller bricht aus 124 0.2: 3.1149999999999998 - Player AgentMiller bricht aus 235 0.1: 2.7649999999999997
+Round size: 500 - Player AgentMiller bricht aus 124 0.2: 3.0133 - Player AgentMiller bricht aus 235 0.1: 2.9773
+Round size: 10000 - Player AgentMiller bricht aus 124 0.2: 3.00014 - Player AgentMiller bricht aus 235 0.1: 2.99974
+Round size: 10 - Player AgentMiller bricht aus 124 0.2: 3.05 - Player AgentMiller bricht aus 235 0.2: 2.8
+Round size: 500 - Player AgentMiller bricht aus 124 0.2: 3.0118 - Player AgentMiller bricht aus 235 0.2: 2.9778
+Round size: 10000 - Player AgentMiller bricht aus 124 0.2: 3.000185 - Player AgentMiller bricht aus 235 0.2: 2.99966
+Round size: 10 - Player AgentMiller bricht aus 124 0.2: 2.6350000000000002 - Player Agent 0.0 1: 2.7600000000000002
+Round size: 500 - Player AgentMiller bricht aus 124 0.2: 2.6653 - Player Agent 0.0 1: 3.1238
+Round size: 10000 - Player AgentMiller bricht aus 124 0.2: 2.70136 - Player Agent 0.0 1: 3.19646
+Round size: 10 - Player AgentMiller bricht aus 124 0.2: 2.62 - Player Agent 0.0 2: 2.745
+Round size: 500 - Player AgentMiller bricht aus 124 0.2: 2.6765999999999996 - Player Agent 0.0 2: 3.1396
+Round size: 10000 - Player AgentMiller bricht aus 124 0.2: 2.701945 - Player Agent 0.0 2: 3.1966449999999997
+Round size: 10 - Player AgentMiller bricht aus 124 0.2: 2.71 - Player Agent 0.0 3: 2.81
+Round size: 500 - Player AgentMiller bricht aus 124 0.2: 2.6884 - Player Agent 0.0 3: 3.1449000000000003
+Round size: 10000 - Player AgentMiller bricht aus 124 0.2: 2.69285 - Player Agent 0.0 3: 3.2016750000000003
+Round size: 10 - Player AgentMiller bricht aus 124 0.2: 2.7199999999999998 - Player Agent 0.1 1: 2.77
+Round size: 500 - Player AgentMiller bricht aus 124 0.2: 2.7161 - Player Agent 0.1 1: 3.1266
+Round size: 10000 - Player AgentMiller bricht aus 124 0.2: 2.731015 - Player Agent 0.1 1: 3.17754
+Round size: 10 - Player AgentMiller bricht aus 124 0.2: 2.87 - Player Agent 0.2 1: 2.7199999999999998
+Round size: 500 - Player AgentMiller bricht aus 124 0.2: 2.7559 - Player Agent 0.2 1: 3.1178999999999997
+Round size: 10000 - Player AgentMiller bricht aus 124 0.2: 2.7618 - Player Agent 0.2 1: 3.157225
+Round size: 10 - Player AgentMiller bricht aus 235 0.0: 3.025 - Player AgentMiller bricht aus 235 0.1: 2.95
+Round size: 500 - Player AgentMiller bricht aus 235 0.0: 2.9993 - Player AgentMiller bricht aus 235 0.1: 2.9988
+Round size: 10000 - Player AgentMiller bricht aus 235 0.0: 2.999945 - Player AgentMiller bricht aus 235 0.1: 3.00002
+Round size: 10 - Player AgentMiller bricht aus 235 0.0: 3.005 - Player AgentMiller bricht aus 235 0.2: 2.98
+Round size: 500 - Player AgentMiller bricht aus 235 0.0: 2.9996 - Player AgentMiller bricht aus 235 0.2: 2.9976
+Round size: 10000 - Player AgentMiller bricht aus 235 0.0: 3.00002 - Player AgentMiller bricht aus 235 0.2: 2.999945
+Round size: 10 - Player AgentMiller bricht aus 235 0.0: 2.755 - Player Agent 0.0 1: 3.055
+Round size: 500 - Player AgentMiller bricht aus 235 0.0: 2.6939 - Player Agent 0.0 1: 3.1814
+Round size: 10000 - Player AgentMiller bricht aus 235 0.0: 2.6989650000000003 - Player Agent 0.0 1: 3.20019
+Round size: 10 - Player AgentMiller bricht aus 235 0.0: 2.66 - Player Agent 0.0 2: 3.185
+Round size: 500 - Player AgentMiller bricht aus 235 0.0: 2.6815 - Player Agent 0.0 2: 3.1864999999999997
+Round size: 10000 - Player AgentMiller bricht aus 235 0.0: 2.698155 - Player Agent 0.0 2: 3.20048
+Round size: 10 - Player AgentMiller bricht aus 235 0.0: 2.725 - Player Agent 0.0 3: 3.15
+Round size: 500 - Player AgentMiller bricht aus 235 0.0: 2.7189 - Player Agent 0.0 3: 3.1634
+Round size: 10000 - Player AgentMiller bricht aus 235 0.0: 2.6974799999999997 - Player Agent 0.0 3: 3.20098
+Round size: 10 - Player AgentMiller bricht aus 235 0.0: 2.665 - Player Agent 0.1 1: 2.965
+Round size: 500 - Player AgentMiller bricht aus 235 0.0: 2.7376 - Player Agent 0.1 1: 3.1631
+Round size: 10000 - Player AgentMiller bricht aus 235 0.0: 2.7276 - Player Agent 0.1 1: 3.18135
+Round size: 10 - Player AgentMiller bricht aus 235 0.0: 2.715 - Player Agent 0.2 1: 3.09
+Round size: 500 - Player AgentMiller bricht aus 235 0.0: 2.7624 - Player Agent 0.2 1: 3.1374
+Round size: 10000 - Player AgentMiller bricht aus 235 0.0: 2.75999 - Player Agent 0.2 1: 3.159265
+Round size: 10 - Player AgentMiller bricht aus 235 0.1: 2.96 - Player AgentMiller bricht aus 235 0.2: 3.0100000000000002
+Round size: 500 - Player AgentMiller bricht aus 235 0.1: 2.9992 - Player AgentMiller bricht aus 235 0.2: 2.9987
+Round size: 10000 - Player AgentMiller bricht aus 235 0.1: 3.00005 - Player AgentMiller bricht aus 235 0.2: 2.999925
+Round size: 10 - Player AgentMiller bricht aus 235 0.1: 2.6149999999999998 - Player Agent 0.0 1: 3.165
+Round size: 500 - Player AgentMiller bricht aus 235 0.1: 2.6859 - Player Agent 0.0 1: 3.1978999999999997
+Round size: 10000 - Player AgentMiller bricht aus 235 0.1: 2.697375 - Player Agent 0.0 1: 3.2011249999999998
+Round size: 10 - Player AgentMiller bricht aus 235 0.1: 2.555 - Player Agent 0.0 2: 3.1550000000000002
+Round size: 500 - Player AgentMiller bricht aus 235 0.1: 2.6921 - Player Agent 0.0 2: 3.1881
+Round size: 10000 - Player AgentMiller bricht aus 235 0.1: 2.69757 - Player Agent 0.0 2: 3.201195
+Round size: 10 - Player AgentMiller bricht aus 235 0.1: 2.69 - Player Agent 0.0 3: 3.165
+Round size: 500 - Player AgentMiller bricht aus 235 0.1: 2.7053000000000003 - Player Agent 0.0 3: 3.1797999999999997
+Round size: 10000 - Player AgentMiller bricht aus 235 0.1: 2.70004 - Player Agent 0.0 3: 3.19939
+Round size: 10 - Player AgentMiller bricht aus 235 0.1: 2.81 - Player Agent 0.1 1: 3.085
+Round size: 500 - Player AgentMiller bricht aus 235 0.1: 2.7155 - Player Agent 0.1 1: 3.1785
+Round size: 10000 - Player AgentMiller bricht aus 235 0.1: 2.7321750000000002 - Player Agent 0.1 1: 3.17825
+Round size: 10 - Player AgentMiller bricht aus 235 0.1: 2.7199999999999998 - Player Agent 0.2 1: 3.12
+Round size: 500 - Player AgentMiller bricht aus 235 0.1: 2.7555 - Player Agent 0.2 1: 3.1510000000000002
+Round size: 10000 - Player AgentMiller bricht aus 235 0.1: 2.75995 - Player Agent 0.2 1: 3.1597
+Round size: 10 - Player AgentMiller bricht aus 235 0.2: 2.7350000000000003 - Player Agent 0.0 1: 3.1100000000000003
+Round size: 500 - Player AgentMiller bricht aus 235 0.2: 2.6991 - Player Agent 0.0 1: 3.1936
+Round size: 10000 - Player AgentMiller bricht aus 235 0.2: 2.70316 - Player Agent 0.0 1: 3.1975100000000003
+Round size: 10 - Player AgentMiller bricht aus 235 0.2: 2.645 - Player Agent 0.0 2: 3.22
+Round size: 500 - Player AgentMiller bricht aus 235 0.2: 2.6974 - Player Agent 0.0 2: 3.1839
+Round size: 10000 - Player AgentMiller bricht aus 235 0.2: 2.70137 - Player Agent 0.0 2: 3.198795
+Round size: 10 - Player AgentMiller bricht aus 235 0.2: 2.71 - Player Agent 0.0 3: 3.16
+Round size: 500 - Player AgentMiller bricht aus 235 0.2: 2.694 - Player Agent 0.0 3: 3.1885000000000003
+Round size: 10000 - Player AgentMiller bricht aus 235 0.2: 2.70168 - Player Agent 0.0 3: 3.198405
+Round size: 10 - Player AgentMiller bricht aus 235 0.2: 2.7649999999999997 - Player Agent 0.1 1: 3.09
+Round size: 500 - Player AgentMiller bricht aus 235 0.2: 2.7302 - Player Agent 0.1 1: 3.1717
+Round size: 10000 - Player AgentMiller bricht aus 235 0.2: 2.728675 - Player Agent 0.1 1: 3.1807
+Round size: 10 - Player AgentMiller bricht aus 235 0.2: 2.785 - Player Agent 0.2 1: 3.1100000000000003
+Round size: 500 - Player AgentMiller bricht aus 235 0.2: 2.7658 - Player Agent 0.2 1: 3.1503
+Round size: 10000 - Player AgentMiller bricht aus 235 0.2: 2.76322 - Player Agent 0.2 1: 3.157545
+Round size: 10 - Player Agent 0.0 1: 2.725 - Player Agent 0.0 2: 2.675
+Round size: 500 - Player Agent 0.0 1: 2.2702999999999998 - Player Agent 0.0 2: 2.2687999999999997
+Round size: 10000 - Player Agent 0.0 1: 2.2544750000000002 - Player Agent 0.0 2: 2.25955
+Round size: 10 - Player Agent 0.0 1: 2.5100000000000002 - Player Agent 0.0 3: 2.435
+Round size: 500 - Player Agent 0.0 1: 2.2712 - Player Agent 0.0 3: 2.2837
+Round size: 10000 - Player Agent 0.0 1: 2.24431 - Player Agent 0.0 3: 2.245535
+Round size: 10 - Player Agent 0.0 1: 2.835 - Player Agent 0.1 1: 2.6350000000000002
+Round size: 500 - Player Agent 0.0 1: 2.4997 - Player Agent 0.1 1: 2.3852
+Round size: 10000 - Player Agent 0.0 1: 2.506545 - Player Agent 0.1 1: 2.39012
+Round size: 10 - Player Agent 0.0 1: 2.87 - Player Agent 0.2 1: 2.62
+Round size: 500 - Player Agent 0.0 1: 2.7023 - Player Agent 0.2 1: 2.4913
+Round size: 10000 - Player Agent 0.0 1: 2.69468 - Player Agent 0.2 1: 2.48738
+Round size: 10 - Player Agent 0.0 2: 2.67 - Player Agent 0.0 3: 2.745
+Round size: 500 - Player Agent 0.0 2: 2.2672 - Player Agent 0.0 3: 2.2641999999999998
+Round size: 10000 - Player Agent 0.0 2: 2.25094 - Player Agent 0.0 3: 2.24859
+Round size: 10 - Player Agent 0.0 2: 2.6 - Player Agent 0.1 1: 2.6
+Round size: 500 - Player Agent 0.0 2: 2.5141999999999998 - Player Agent 0.1 1: 2.3847
+Round size: 10000 - Player Agent 0.0 2: 2.512525 - Player Agent 0.1 1: 2.390425
+Round size: 10 - Player Agent 0.0 2: 2.835 - Player Agent 0.2 1: 2.6350000000000002
+Round size: 500 - Player Agent 0.0 2: 2.691 - Player Agent 0.2 1: 2.511
+Round size: 10000 - Player Agent 0.0 2: 2.685165 - Player Agent 0.2 1: 2.48029
+Round size: 10 - Player Agent 0.0 3: 2.755 - Player Agent 0.1 1: 2.63
+Round size: 500 - Player Agent 0.0 3: 2.5301 - Player Agent 0.1 1: 2.4135999999999997
+Round size: 10000 - Player Agent 0.0 3: 2.50897 - Player Agent 0.1 1: 2.39282
+Round size: 10 - Player Agent 0.0 3: 2.7600000000000002 - Player Agent 0.2 1: 2.685
+Round size: 500 - Player Agent 0.0 3: 2.6992000000000003 - Player Agent 0.2 1: 2.4817
+Round size: 10000 - Player Agent 0.0 3: 2.6932099999999997 - Player Agent 0.2 1: 2.4864100000000002
+Round size: 10 - Player Agent 0.1 1: 2.805 - Player Agent 0.2 1: 2.83
+Round size: 500 - Player Agent 0.1 1: 2.7165 - Player Agent 0.2 1: 2.628
+Round size: 10000 - Player Agent 0.1 1: 2.715985 - Player Agent 0.2 1: 2.62161
+Scores (Sorted):
+1. Agent 0.2 1: 1911.19
+2. Agent 0.0 1: 1910.20
+3. Agent 0.0 2: 1910.19
+4. Agent 0.0 3: 1907.20
+5. Agent 0.1 1: 1902.12
+6. AgentMiller bricht aus 124 0.2: 1891.50
+7. AgentMiller bricht aus 124 0.1: 1887.85
+8. AgentMiller bricht aus 235 0.2: 1881.56
+9. AgentMiller bricht aus 235 0.0: 1880.10
+10. AgentMiller bricht aus 124 0.0: 1877.41
+11. Agent immer C: 1873.97
+12. AgentMiller bricht aus 235 0.1: 1873.79
+Resetting scores 
+
+
+Competition started with 12 agents
+Noisy:
+Competition started with 14 agents
+Noisy:
+Round size: 10 - Player Agent immer C: 2.58 - Player AgentMiller bricht aus 124 0.1: 3.28
+Round size: 500 - Player Agent immer C: 2.976 - Player AgentMiller bricht aus 124 0.1: 3.016
+Round size: 10000 - Player Agent immer C: 2.999775 - Player AgentMiller bricht aus 124 0.1: 3.00015
+Round size: 10 - Player Agent immer C: 2.715 - Player AgentMiller bricht aus 124 0.0: 3.19
+Round size: 500 - Player Agent immer C: 2.9778 - Player AgentMiller bricht aus 124 0.0: 3.0148
+Round size: 10000 - Player Agent immer C: 2.99973 - Player AgentMiller bricht aus 124 0.0: 3.00018
+Round size: 10 - Player Agent immer C: 2.715 - Player AgentMiller bricht aus 124 0.2: 3.19
+Round size: 500 - Player Agent immer C: 2.9754 - Player AgentMiller bricht aus 124 0.2: 3.0164
+Round size: 10000 - Player Agent immer C: 2.99982 - Player AgentMiller bricht aus 124 0.2: 3.00012
+Round size: 10 - Player Agent immer C: 2.94 - Player AgentMiller bricht aus 235 0.0: 3.04
+Round size: 500 - Player Agent immer C: 2.9964 - Player AgentMiller bricht aus 235 0.0: 3.0024
+Round size: 10000 - Player Agent immer C: 2.9999700000000002 - Player AgentMiller bricht aus 235 0.0: 3.00002
+Round size: 10 - Player Agent immer C: 2.9699999999999998 - Player AgentMiller bricht aus 235 0.1: 3.02
+Round size: 500 - Player Agent immer C: 2.9981999999999998 - Player AgentMiller bricht aus 235 0.1: 3.0012
+Round size: 10000 - Player Agent immer C: 2.999955 - Player AgentMiller bricht aus 235 0.1: 3.0000299999999998
+Round size: 10 - Player Agent immer C: 2.9699999999999998 - Player AgentMiller bricht aus 235 0.2: 3.02
+Round size: 500 - Player Agent immer C: 2.9966999999999997 - Player AgentMiller bricht aus 235 0.2: 3.0021999999999998
+Round size: 10000 - Player Agent immer C: 2.9999849999999997 - Player AgentMiller bricht aus 235 0.2: 3.00001
+Round size: 10 - Player Agent immer C: 2.6399999999999997 - Player Agent 0.0 1: 3.2399999999999998
+Round size: 500 - Player Agent immer C: 2.6991 - Player Agent 0.0 1: 3.2006
+Round size: 10000 - Player Agent immer C: 2.700765 - Player Agent 0.0 1: 3.19949
+Round size: 10 - Player Agent immer C: 2.715 - Player Agent 0.0 2: 3.19
+Round size: 500 - Player Agent immer C: 2.6988 - Player Agent 0.0 2: 3.2008
+Round size: 10000 - Player Agent immer C: 2.699655 - Player Agent 0.0 2: 3.20023
+Round size: 10 - Player Agent immer C: 2.7600000000000002 - Player Agent 0.0 3: 3.16
+Round size: 500 - Player Agent immer C: 2.685 - Player Agent 0.0 3: 3.21
+Round size: 10000 - Player Agent immer C: 2.701785 - Player Agent 0.0 3: 3.19881
+Round size: 10 - Player Agent immer C: 2.82 - Player Agent 0.49: 3.12
+Round size: 500 - Player Agent immer C: 2.847 - Player Agent 0.49: 3.102
+Round size: 10000 - Player Agent immer C: 2.8485 - Player Agent 0.49: 3.101
+Round size: 10 - Player Agent immer C: 2.955 - Player Agent 0.49: 3.0300000000000002
+Round size: 500 - Player Agent immer C: 2.9421 - Player Agent 0.49: 3.0385999999999997
+Round size: 10000 - Player Agent immer C: 2.94003 - Player Agent 0.49: 3.03998
+Round size: 10 - Player Agent immer C: 2.67 - Player Agent 0.1 1: 3.22
+Round size: 500 - Player Agent immer C: 2.7273 - Player Agent 0.1 1: 3.1818
+Round size: 10000 - Player Agent immer C: 2.73213 - Player Agent 0.1 1: 3.1785799999999997
+Round size: 10 - Player Agent immer C: 2.79 - Player Agent 0.2 1: 3.1399999999999997
+Round size: 500 - Player Agent immer C: 2.7471 - Player Agent 0.2 1: 3.1686
+Round size: 10000 - Player Agent immer C: 2.7579450000000003 - Player Agent 0.2 1: 3.1613700000000002
+Round size: 10 - Player AgentMiller bricht aus 124 0.1: 2.695 - Player AgentMiller bricht aus 124 0.0: 2.82
+Round size: 500 - Player AgentMiller bricht aus 124 0.1: 2.9812000000000003 - Player AgentMiller bricht aus 124 0.0: 2.9882
+Round size: 10000 - Player AgentMiller bricht aus 124 0.1: 2.999835 - Player AgentMiller bricht aus 124 0.0: 2.999935
+Round size: 10 - Player AgentMiller bricht aus 124 0.1: 2.85 - Player AgentMiller bricht aus 124 0.2: 2.75
+Round size: 500 - Player AgentMiller bricht aus 124 0.1: 2.9901 - Player AgentMiller bricht aus 124 0.2: 2.9866
+Round size: 10000 - Player AgentMiller bricht aus 124 0.1: 3.00004 - Player AgentMiller bricht aus 124 0.2: 2.999815
+Round size: 10 - Player AgentMiller bricht aus 124 0.1: 3.0100000000000002 - Player AgentMiller bricht aus 235 0.0: 2.71
+Round size: 500 - Player AgentMiller bricht aus 124 0.1: 3.0132000000000003 - Player AgentMiller bricht aus 235 0.0: 2.9742
+Round size: 10000 - Player AgentMiller bricht aus 124 0.1: 3.00002 - Player AgentMiller bricht aus 235 0.0: 2.999895
+Round size: 10 - Player AgentMiller bricht aus 124 0.1: 3.065 - Player AgentMiller bricht aus 235 0.1: 2.715
+Round size: 500 - Player AgentMiller bricht aus 124 0.1: 3.0116 - Player AgentMiller bricht aus 235 0.1: 2.9791
+Round size: 10000 - Player AgentMiller bricht aus 124 0.1: 3.00016 - Player AgentMiller bricht aus 235 0.1: 2.999685
+Round size: 10 - Player AgentMiller bricht aus 124 0.1: 3.125 - Player AgentMiller bricht aus 235 0.2: 2.7
+Round size: 500 - Player AgentMiller bricht aus 124 0.1: 3.0125 - Player AgentMiller bricht aus 235 0.2: 2.977
+Round size: 10000 - Player AgentMiller bricht aus 124 0.1: 3.00019 - Player AgentMiller bricht aus 235 0.2: 2.999665
+Round size: 10 - Player AgentMiller bricht aus 124 0.1: 2.5100000000000002 - Player Agent 0.0 1: 2.81
+Round size: 500 - Player AgentMiller bricht aus 124 0.1: 2.6704999999999997 - Player Agent 0.0 1: 3.1355
+Round size: 10000 - Player AgentMiller bricht aus 124 0.1: 2.7000900000000003 - Player Agent 0.0 1: 3.197165
+Round size: 10 - Player AgentMiller bricht aus 124 0.1: 2.7 - Player Agent 0.0 2: 2.775
+Round size: 500 - Player AgentMiller bricht aus 124 0.1: 2.6702000000000004 - Player Agent 0.0 2: 3.1342
+Round size: 10000 - Player AgentMiller bricht aus 124 0.1: 2.699725 - Player Agent 0.0 2: 3.196125
+Round size: 10 - Player AgentMiller bricht aus 124 0.1: 2.65 - Player Agent 0.0 3: 2.775
+Round size: 500 - Player AgentMiller bricht aus 124 0.1: 2.663 - Player Agent 0.0 3: 3.1135
+Round size: 10000 - Player AgentMiller bricht aus 124 0.1: 2.7022 - Player Agent 0.0 3: 3.195475
+Round size: 10 - Player AgentMiller bricht aus 124 0.1: 2.98 - Player Agent 0.49: 2.73
+Round size: 500 - Player AgentMiller bricht aus 124 0.1: 2.8565 - Player Agent 0.49: 3.066
+Round size: 10000 - Player AgentMiller bricht aus 124 0.1: 2.848845 - Player Agent 0.49: 3.100295
+Round size: 10 - Player AgentMiller bricht aus 124 0.1: 3.105 - Player Agent 0.49: 2.7800000000000002
+Round size: 500 - Player AgentMiller bricht aus 124 0.1: 2.9604 - Player Agent 0.49: 3.0069
+Round size: 10000 - Player AgentMiller bricht aus 124 0.1: 2.940945 - Player Agent 0.49: 3.038945
+Round size: 10 - Player AgentMiller bricht aus 124 0.1: 2.575 - Player Agent 0.1 1: 2.725
+Round size: 500 - Player AgentMiller bricht aus 124 0.1: 2.713 - Player Agent 0.1 1: 3.106
+Round size: 10000 - Player AgentMiller bricht aus 124 0.1: 2.727955 - Player Agent 0.1 1: 3.17923
+Round size: 10 - Player AgentMiller bricht aus 124 0.1: 2.835 - Player Agent 0.2 1: 2.71
+Round size: 500 - Player AgentMiller bricht aus 124 0.1: 2.738 - Player Agent 0.2 1: 3.0995
+Round size: 10000 - Player AgentMiller bricht aus 124 0.1: 2.7621700000000002 - Player Agent 0.2 1: 3.1569949999999998
+Round size: 10 - Player AgentMiller bricht aus 124 0.0: 2.7399999999999998 - Player AgentMiller bricht aus 124 0.2: 2.6399999999999997
+Round size: 500 - Player AgentMiller bricht aus 124 0.0: 2.9914 - Player AgentMiller bricht aus 124 0.2: 2.9819
+Round size: 10000 - Player AgentMiller bricht aus 124 0.0: 2.9999700000000002 - Player AgentMiller bricht aus 124 0.2: 2.99977
+Round size: 10 - Player AgentMiller bricht aus 124 0.0: 3.1399999999999997 - Player AgentMiller bricht aus 235 0.0: 2.6149999999999998
+Round size: 500 - Player AgentMiller bricht aus 124 0.0: 3.0141999999999998 - Player AgentMiller bricht aus 235 0.0: 2.9737
+Competition started with 14 agents
+Noisy:
+Round size: 10 - Player Agent immer C: 2.58 - Player AgentMiller bricht aus 124 0.1: 3.28
+Round size: 500 - Player Agent immer C: 2.976 - Player AgentMiller bricht aus 124 0.1: 3.016
+Round size: 10000 - Player Agent immer C: 2.999775 - Player AgentMiller bricht aus 124 0.1: 3.00015
+Round size: 10 - Player Agent immer C: 2.715 - Player AgentMiller bricht aus 124 0.0: 3.19
+Round size: 500 - Player Agent immer C: 2.9778 - Player AgentMiller bricht aus 124 0.0: 3.0148
+Round size: 10000 - Player Agent immer C: 2.99973 - Player AgentMiller bricht aus 124 0.0: 3.00018
+Round size: 10 - Player Agent immer C: 2.715 - Player AgentMiller bricht aus 124 0.2: 3.19
+Round size: 500 - Player Agent immer C: 2.9754 - Player AgentMiller bricht aus 124 0.2: 3.0164
+Round size: 10000 - Player Agent immer C: 2.99982 - Player AgentMiller bricht aus 124 0.2: 3.00012
+Round size: 10 - Player Agent immer C: 2.94 - Player AgentMiller bricht aus 235 0.0: 3.04
+Round size: 500 - Player Agent immer C: 2.9964 - Player AgentMiller bricht aus 235 0.0: 3.0024
+Round size: 10000 - Player Agent immer C: 2.9999700000000002 - Player AgentMiller bricht aus 235 0.0: 3.00002
+Round size: 10 - Player Agent immer C: 2.9699999999999998 - Player AgentMiller bricht aus 235 0.1: 3.02
+Round size: 500 - Player Agent immer C: 2.9981999999999998 - Player AgentMiller bricht aus 235 0.1: 3.0012
+Round size: 10000 - Player Agent immer C: 2.999955 - Player AgentMiller bricht aus 235 0.1: 3.0000299999999998
+Round size: 10 - Player Agent immer C: 2.9699999999999998 - Player AgentMiller bricht aus 235 0.2: 3.02
+Round size: 500 - Player Agent immer C: 2.9966999999999997 - Player AgentMiller bricht aus 235 0.2: 3.0021999999999998
+Round size: 10000 - Player Agent immer C: 2.9999849999999997 - Player AgentMiller bricht aus 235 0.2: 3.00001
+Round size: 10 - Player Agent immer C: 2.6399999999999997 - Player Agent 0.0 1: 3.2399999999999998
+Round size: 500 - Player Agent immer C: 2.6991 - Player Agent 0.0 1: 3.2006
+Round size: 10000 - Player Agent immer C: 2.700765 - Player Agent 0.0 1: 3.19949
+Round size: 10 - Player Agent immer C: 2.715 - Player Agent 0.0 2: 3.19
+Round size: 500 - Player Agent immer C: 2.6988 - Player Agent 0.0 2: 3.2008
+Round size: 10000 - Player Agent immer C: 2.699655 - Player Agent 0.0 2: 3.20023
+Round size: 10 - Player Agent immer C: 2.7600000000000002 - Player Agent 0.0 3: 3.16
+Round size: 500 - Player Agent immer C: 2.685 - Player Agent 0.0 3: 3.21
+Round size: 10000 - Player Agent immer C: 2.701785 - Player Agent 0.0 3: 3.19881
+Round size: 10 - Player Agent immer C: 2.82 - Player Agent 0.49: 3.12
+Round size: 500 - Player Agent immer C: 2.847 - Player Agent 0.49: 3.102
+Round size: 10000 - Player Agent immer C: 2.8485 - Player Agent 0.49: 3.101
+Round size: 10 - Player Agent immer C: 2.955 - Player Agent 0.8: 3.0300000000000002
+Round size: 500 - Player Agent immer C: 2.9421 - Player Agent 0.8: 3.0385999999999997
+Round size: 10000 - Player Agent immer C: 2.94003 - Player Agent 0.8: 3.03998
+Round size: 10 - Player Agent immer C: 2.67 - Player Agent 0.1 1: 3.22
+Round size: 500 - Player Agent immer C: 2.7273 - Player Agent 0.1 1: 3.1818
+Round size: 10000 - Player Agent immer C: 2.73213 - Player Agent 0.1 1: 3.1785799999999997
+Round size: 10 - Player Agent immer C: 2.79 - Player Agent 0.2 1: 3.1399999999999997
+Round size: 500 - Player Agent immer C: 2.7471 - Player Agent 0.2 1: 3.1686
+Round size: 10000 - Player Agent immer C: 2.7579450000000003 - Player Agent 0.2 1: 3.1613700000000002
+Round size: 10 - Player AgentMiller bricht aus 124 0.1: 2.695 - Player AgentMiller bricht aus 124 0.0: 2.82
+Round size: 500 - Player AgentMiller bricht aus 124 0.1: 2.9812000000000003 - Player AgentMiller bricht aus 124 0.0: 2.9882
+Round size: 10000 - Player AgentMiller bricht aus 124 0.1: 2.999835 - Player AgentMiller bricht aus 124 0.0: 2.999935
+Round size: 10 - Player AgentMiller bricht aus 124 0.1: 2.85 - Player AgentMiller bricht aus 124 0.2: 2.75
+Round size: 500 - Player AgentMiller bricht aus 124 0.1: 2.9901 - Player AgentMiller bricht aus 124 0.2: 2.9866
+Round size: 10000 - Player AgentMiller bricht aus 124 0.1: 3.00004 - Player AgentMiller bricht aus 124 0.2: 2.999815
+Round size: 10 - Player AgentMiller bricht aus 124 0.1: 3.0100000000000002 - Player AgentMiller bricht aus 235 0.0: 2.71
+Round size: 500 - Player AgentMiller bricht aus 124 0.1: 3.0132000000000003 - Player AgentMiller bricht aus 235 0.0: 2.9742
+Round size: 10000 - Player AgentMiller bricht aus 124 0.1: 3.00002 - Player AgentMiller bricht aus 235 0.0: 2.999895
+Round size: 10 - Player AgentMiller bricht aus 124 0.1: 3.065 - Player AgentMiller bricht aus 235 0.1: 2.715
+Round size: 500 - Player AgentMiller bricht aus 124 0.1: 3.0116 - Player AgentMiller bricht aus 235 0.1: 2.9791
+Round size: 10000 - Player AgentMiller bricht aus 124 0.1: 3.00016 - Player AgentMiller bricht aus 235 0.1: 2.999685
+Round size: 10 - Player AgentMiller bricht aus 124 0.1: 3.125 - Player AgentMiller bricht aus 235 0.2: 2.7
+Round size: 500 - Player AgentMiller bricht aus 124 0.1: 3.0125 - Player AgentMiller bricht aus 235 0.2: 2.977
+Round size: 10000 - Player AgentMiller bricht aus 124 0.1: 3.00019 - Player AgentMiller bricht aus 235 0.2: 2.999665
+Round size: 10 - Player AgentMiller bricht aus 124 0.1: 2.5100000000000002 - Player Agent 0.0 1: 2.81
+Round size: 500 - Player AgentMiller bricht aus 124 0.1: 2.6704999999999997 - Player Agent 0.0 1: 3.1355
+Round size: 10000 - Player AgentMiller bricht aus 124 0.1: 2.7000900000000003 - Player Agent 0.0 1: 3.197165
+Round size: 10 - Player AgentMiller bricht aus 124 0.1: 2.7 - Player Agent 0.0 2: 2.775
+Round size: 500 - Player AgentMiller bricht aus 124 0.1: 2.6702000000000004 - Player Agent 0.0 2: 3.1342
+Round size: 10000 - Player AgentMiller bricht aus 124 0.1: 2.699725 - Player Agent 0.0 2: 3.196125
+Round size: 10 - Player AgentMiller bricht aus 124 0.1: 2.65 - Player Agent 0.0 3: 2.775
+Round size: 500 - Player AgentMiller bricht aus 124 0.1: 2.663 - Player Agent 0.0 3: 3.1135
+Round size: 10000 - Player AgentMiller bricht aus 124 0.1: 2.7022 - Player Agent 0.0 3: 3.195475
+Round size: 10 - Player AgentMiller bricht aus 124 0.1: 2.98 - Player Agent 0.49: 2.73
+Round size: 500 - Player AgentMiller bricht aus 124 0.1: 2.8565 - Player Agent 0.49: 3.066
+Round size: 10000 - Player AgentMiller bricht aus 124 0.1: 2.848845 - Player Agent 0.49: 3.100295
+Round size: 10 - Player AgentMiller bricht aus 124 0.1: 3.105 - Player Agent 0.8: 2.7800000000000002
+Round size: 500 - Player AgentMiller bricht aus 124 0.1: 2.9604 - Player Agent 0.8: 3.0069
+Round size: 10000 - Player AgentMiller bricht aus 124 0.1: 2.940945 - Player Agent 0.8: 3.038945
+Round size: 10 - Player AgentMiller bricht aus 124 0.1: 2.575 - Player Agent 0.1 1: 2.725
+Round size: 500 - Player AgentMiller bricht aus 124 0.1: 2.713 - Player Agent 0.1 1: 3.106
+Round size: 10000 - Player AgentMiller bricht aus 124 0.1: 2.727955 - Player Agent 0.1 1: 3.17923
+Round size: 10 - Player AgentMiller bricht aus 124 0.1: 2.835 - Player Agent 0.2 1: 2.71
+Round size: 500 - Player AgentMiller bricht aus 124 0.1: 2.738 - Player Agent 0.2 1: 3.0995
+Round size: 10000 - Player AgentMiller bricht aus 124 0.1: 2.7621700000000002 - Player Agent 0.2 1: 3.1569949999999998
+Round size: 10 - Player AgentMiller bricht aus 124 0.0: 2.7399999999999998 - Player AgentMiller bricht aus 124 0.2: 2.6399999999999997
+Round size: 500 - Player AgentMiller bricht aus 124 0.0: 2.9914 - Player AgentMiller bricht aus 124 0.2: 2.9819
+Round size: 10000 - Player AgentMiller bricht aus 124 0.0: 2.9999700000000002 - Player AgentMiller bricht aus 124 0.2: 2.99977
+Round size: 10 - Player AgentMiller bricht aus 124 0.0: 3.1399999999999997 - Player AgentMiller bricht aus 235 0.0: 2.6149999999999998
+Round size: 500 - Player AgentMiller bricht aus 124 0.0: 3.0141999999999998 - Player AgentMiller bricht aus 235 0.0: 2.9737
+Round size: 10000 - Player AgentMiller bricht aus 124 0.0: 3.000065 - Player AgentMiller bricht aus 235 0.0: 2.999815
+Round size: 10 - Player AgentMiller bricht aus 124 0.0: 3.13 - Player AgentMiller bricht aus 235 0.1: 2.63
+Round size: 500 - Player AgentMiller bricht aus 124 0.0: 3.0178000000000003 - Player AgentMiller bricht aus 235 0.1: 2.9713000000000003
+Round size: 10000 - Player AgentMiller bricht aus 124 0.0: 3.00014 - Player AgentMiller bricht aus 235 0.1: 2.999765
+Round size: 10 - Player AgentMiller bricht aus 124 0.0: 3.145 - Player AgentMiller bricht aus 235 0.2: 2.645
+Round size: 500 - Player AgentMiller bricht aus 124 0.0: 3.0198 - Player AgentMiller bricht aus 235 0.2: 2.9683
+Round size: 10000 - Player AgentMiller bricht aus 124 0.0: 3.0001249999999997 - Player AgentMiller bricht aus 235 0.2: 2.999775
+Round size: 10 - Player AgentMiller bricht aus 124 0.0: 2.475 - Player Agent 0.0 1: 2.7
+Round size: 500 - Player AgentMiller bricht aus 124 0.0: 2.6612999999999998 - Player Agent 0.0 1: 3.1058
+Round size: 10000 - Player AgentMiller bricht aus 124 0.0: 2.696085 - Player Agent 0.0 1: 3.19836
+Round size: 10 - Player AgentMiller bricht aus 124 0.0: 2.62 - Player Agent 0.0 2: 2.5949999999999998
+Round size: 500 - Player AgentMiller bricht aus 124 0.0: 2.675 - Player Agent 0.0 2: 3.1115
+Round size: 10000 - Player AgentMiller bricht aus 124 0.0: 2.6959299999999997 - Player Agent 0.0 2: 3.199005
+Round size: 10 - Player AgentMiller bricht aus 124 0.0: 2.54 - Player Agent 0.0 3: 2.565
+Round size: 500 - Player AgentMiller bricht aus 124 0.0: 2.6464 - Player Agent 0.0 3: 3.0869
+Round size: 10000 - Player AgentMiller bricht aus 124 0.0: 2.69972 - Player Agent 0.0 3: 3.197145
+Round size: 10 - Player AgentMiller bricht aus 124 0.0: 2.8899999999999997 - Player Agent 0.49: 2.79
+Round size: 500 - Player AgentMiller bricht aus 124 0.0: 2.8522 - Player Agent 0.49: 3.0522
+Round size: 10000 - Player AgentMiller bricht aus 124 0.0: 2.8471 - Player Agent 0.49: 3.100925
+Round size: 10 - Player AgentMiller bricht aus 124 0.0: 3.1 - Player Agent 0.8: 2.775
+Round size: 500 - Player AgentMiller bricht aus 124 0.0: 2.9659 - Player Agent 0.8: 2.9989
+Round size: 10000 - Player AgentMiller bricht aus 124 0.0: 2.9415050000000003 - Player Agent 0.8: 3.038655
+Round size: 10 - Player AgentMiller bricht aus 124 0.0: 2.8 - Player Agent 0.1 1: 2.55
+Round size: 500 - Player AgentMiller bricht aus 124 0.0: 2.7034 - Player Agent 0.1 1: 3.0764
+Round size: 10000 - Player AgentMiller bricht aus 124 0.0: 2.7325 - Player Agent 0.1 1: 3.1757999999999997
+Round size: 10 - Player AgentMiller bricht aus 124 0.0: 2.8649999999999998 - Player Agent 0.2 1: 2.7399999999999998
+Round size: 500 - Player AgentMiller bricht aus 124 0.0: 2.7538 - Player Agent 0.2 1: 3.0908
+Round size: 10000 - Player AgentMiller bricht aus 124 0.0: 2.75638 - Player Agent 0.2 1: 3.15993
+Round size: 10 - Player AgentMiller bricht aus 124 0.2: 3.065 - Player AgentMiller bricht aus 235 0.0: 2.84
+Round size: 500 - Player AgentMiller bricht aus 124 0.2: 3.0115 - Player AgentMiller bricht aus 235 0.0: 2.9795000000000003
+Round size: 10000 - Player AgentMiller bricht aus 124 0.2: 3.000075 - Player AgentMiller bricht aus 235 0.0: 2.99985
+Round size: 10 - Player AgentMiller bricht aus 124 0.2: 3.0 - Player AgentMiller bricht aus 235 0.1: 2.775
+Round size: 500 - Player AgentMiller bricht aus 124 0.2: 3.0102 - Player AgentMiller bricht aus 235 0.1: 2.9787
+Round size: 10000 - Player AgentMiller bricht aus 124 0.2: 3.00018 - Player AgentMiller bricht aus 235 0.1: 2.999705
+Round size: 10 - Player AgentMiller bricht aus 124 0.2: 3.06 - Player AgentMiller bricht aus 235 0.2: 2.785
+Round size: 500 - Player AgentMiller bricht aus 124 0.2: 3.012 - Player AgentMiller bricht aus 235 0.2: 2.979
+Round size: 10000 - Player AgentMiller bricht aus 124 0.2: 3.000105 - Player AgentMiller bricht aus 235 0.2: 2.999805
+Round size: 10 - Player AgentMiller bricht aus 124 0.2: 2.59 - Player Agent 0.0 1: 2.7399999999999998
+Round size: 500 - Player AgentMiller bricht aus 124 0.2: 2.6483 - Player Agent 0.0 1: 3.1363
+Round size: 10000 - Player AgentMiller bricht aus 124 0.2: 2.702055 - Player Agent 0.0 1: 3.1956800000000003
+Round size: 10 - Player AgentMiller bricht aus 124 0.2: 2.73 - Player Agent 0.0 2: 2.855
+Round size: 500 - Player AgentMiller bricht aus 124 0.2: 2.654 - Player Agent 0.0 2: 3.1390000000000002
+Round size: 10000 - Player AgentMiller bricht aus 124 0.2: 2.697365 - Player Agent 0.0 2: 3.19949
+Round size: 10 - Player AgentMiller bricht aus 124 0.2: 2.675 - Player Agent 0.0 3: 2.775
+Round size: 500 - Player AgentMiller bricht aus 124 0.2: 2.6791 - Player Agent 0.0 3: 3.1401
+Round size: 10000 - Player AgentMiller bricht aus 124 0.2: 2.6992599999999998 - Player Agent 0.0 3: 3.19831
+Round size: 10 - Player AgentMiller bricht aus 124 0.2: 2.94 - Player Agent 0.49: 2.8649999999999998
+Round size: 500 - Player AgentMiller bricht aus 124 0.2: 2.8565 - Player Agent 0.49: 3.069
+Round size: 10000 - Player AgentMiller bricht aus 124 0.2: 2.84637 - Player Agent 0.49: 3.101795
+Round size: 10 - Player AgentMiller bricht aus 124 0.2: 3.085 - Player Agent 0.8: 2.81
+Round size: 500 - Player AgentMiller bricht aus 124 0.2: 2.9614000000000003 - Player Agent 0.8: 3.0049
+Round size: 10000 - Player AgentMiller bricht aus 124 0.2: 2.9391249999999998 - Player Agent 0.8: 3.040375
+Round size: 10 - Player AgentMiller bricht aus 124 0.2: 2.805 - Player Agent 0.1 1: 2.805
+Round size: 500 - Player AgentMiller bricht aus 124 0.2: 2.7232 - Player Agent 0.1 1: 3.1247
+Round size: 10000 - Player AgentMiller bricht aus 124 0.2: 2.7296199999999997 - Player Agent 0.1 1: 3.17807
+Round size: 10 - Player AgentMiller bricht aus 124 0.2: 2.815 - Player Agent 0.2 1: 2.79
+Round size: 500 - Player AgentMiller bricht aus 124 0.2: 2.7552 - Player Agent 0.2 1: 3.1107
+Round size: 10000 - Player AgentMiller bricht aus 124 0.2: 2.759695 - Player Agent 0.2 1: 3.1584700000000003
+Round size: 10 - Player AgentMiller bricht aus 235 0.0: 2.92 - Player AgentMiller bricht aus 235 0.1: 2.895
+Round size: 500 - Player AgentMiller bricht aus 235 0.0: 2.9992 - Player AgentMiller bricht aus 235 0.1: 2.9981999999999998
+Round size: 10000 - Player AgentMiller bricht aus 235 0.0: 3.00001 - Player AgentMiller bricht aus 235 0.1: 2.99996
+Round size: 10 - Player AgentMiller bricht aus 235 0.0: 2.9850000000000003 - Player AgentMiller bricht aus 235 0.2: 2.9850000000000003
+Round size: 500 - Player AgentMiller bricht aus 235 0.0: 2.9978000000000002 - Player AgentMiller bricht aus 235 0.2: 2.9993
+Round size: 10000 - Player AgentMiller bricht aus 235 0.0: 3.0000150000000003 - Player AgentMiller bricht aus 235 0.2: 2.999965
+Round size: 10 - Player AgentMiller bricht aus 235 0.0: 2.715 - Player Agent 0.0 1: 3.1149999999999998
+Round size: 500 - Player AgentMiller bricht aus 235 0.0: 2.6873 - Player Agent 0.0 1: 3.1893000000000002
+Round size: 10000 - Player AgentMiller bricht aus 235 0.0: 2.69969 - Player Agent 0.0 1: 3.199365
+Round size: 10 - Player AgentMiller bricht aus 235 0.0: 2.745 - Player Agent 0.0 2: 3.045
+Round size: 500 - Player AgentMiller bricht aus 235 0.0: 2.6978 - Player Agent 0.0 2: 3.1853000000000002
+Round size: 10000 - Player AgentMiller bricht aus 235 0.0: 2.70281 - Player Agent 0.0 2: 3.197785
+Round size: 10 - Player AgentMiller bricht aus 235 0.0: 2.775 - Player Agent 0.0 3: 3.025
+Round size: 500 - Player AgentMiller bricht aus 235 0.0: 2.7013000000000003 - Player Agent 0.0 3: 3.1728
+Round size: 10000 - Player AgentMiller bricht aus 235 0.0: 2.698195 - Player Agent 0.0 3: 3.19997
+Round size: 10 - Player AgentMiller bricht aus 235 0.0: 2.96 - Player Agent 0.49: 2.9850000000000003
+Round size: 500 - Player AgentMiller bricht aus 235 0.0: 2.8577000000000004 - Player Agent 0.49: 3.0887000000000002
+Round size: 10000 - Player AgentMiller bricht aus 235 0.0: 2.849285 - Player Agent 0.49: 3.100285
+Round size: 10 - Player AgentMiller bricht aus 235 0.0: 2.9850000000000003 - Player Agent 0.8: 3.0100000000000002
+Round size: 500 - Player AgentMiller bricht aus 235 0.0: 2.9495 - Player Agent 0.8: 3.0315000000000003
+Round size: 10000 - Player AgentMiller bricht aus 235 0.0: 2.9388 - Player Agent 0.8: 3.04075
+Round size: 10 - Player AgentMiller bricht aus 235 0.0: 2.775 - Player Agent 0.1 1: 3.125
+Round size: 500 - Player AgentMiller bricht aus 235 0.0: 2.7337 - Player Agent 0.1 1: 3.1637
+Round size: 10000 - Player AgentMiller bricht aus 235 0.0: 2.731175 - Player Agent 0.1 1: 3.1788250000000002
+Round size: 10 - Player AgentMiller bricht aus 235 0.0: 2.835 - Player Agent 0.2 1: 3.06
+Round size: 500 - Player AgentMiller bricht aus 235 0.0: 2.7554 - Player Agent 0.2 1: 3.1524
+Round size: 10000 - Player AgentMiller bricht aus 235 0.0: 2.758405 - Player Agent 0.2 1: 3.160855
+Round size: 10 - Player AgentMiller bricht aus 235 0.1: 2.895 - Player AgentMiller bricht aus 235 0.2: 3.02
+Round size: 500 - Player AgentMiller bricht aus 235 0.1: 2.9972000000000003 - Player AgentMiller bricht aus 235 0.2: 3.0007
+Round size: 10000 - Player AgentMiller bricht aus 235 0.1: 2.9999949999999997 - Player AgentMiller bricht aus 235 0.2: 2.9999949999999997
+Round size: 10 - Player AgentMiller bricht aus 235 0.1: 2.815 - Player Agent 0.0 1: 3.065
+Round size: 500 - Player AgentMiller bricht aus 235 0.1: 2.6874 - Player Agent 0.0 1: 3.1934
+Round size: 10000 - Player AgentMiller bricht aus 235 0.1: 2.700535 - Player Agent 0.0 1: 3.1993099999999997
+Round size: 10 - Player AgentMiller bricht aus 235 0.1: 2.7199999999999998 - Player Agent 0.0 2: 3.0949999999999998
+Round size: 500 - Player AgentMiller bricht aus 235 0.1: 2.6917 - Player Agent 0.0 2: 3.1862
+Round size: 10000 - Player AgentMiller bricht aus 235 0.1: 2.700695 - Player Agent 0.0 2: 3.1990950000000002
+Round size: 10 - Player AgentMiller bricht aus 235 0.1: 2.69 - Player Agent 0.0 3: 3.19
+Round size: 500 - Player AgentMiller bricht aus 235 0.1: 2.7055 - Player Agent 0.0 3: 3.185
+Round size: 10000 - Player AgentMiller bricht aus 235 0.1: 2.69597 - Player Agent 0.0 3: 3.202095
+Round size: 10 - Player AgentMiller bricht aus 235 0.1: 2.85 - Player Agent 0.49: 3.0
+Round size: 500 - Player AgentMiller bricht aus 235 0.1: 2.8518 - Player Agent 0.49: 3.0948
+Round size: 10000 - Player AgentMiller bricht aus 235 0.1: 2.8475650000000003 - Player Agent 0.49: 3.10149
+Round size: 10 - Player AgentMiller bricht aus 235 0.1: 2.96 - Player Agent 0.8: 2.96
+Round size: 500 - Player AgentMiller bricht aus 235 0.1: 2.9391 - Player Agent 0.8: 3.0391
+Round size: 10000 - Player AgentMiller bricht aus 235 0.1: 2.939295 - Player Agent 0.8: 3.040345
+Round size: 10 - Player AgentMiller bricht aus 235 0.1: 2.79 - Player Agent 0.1 1: 3.0149999999999997
+Round size: 500 - Player AgentMiller bricht aus 235 0.1: 2.7187 - Player Agent 0.1 1: 3.1807
+Round size: 10000 - Player AgentMiller bricht aus 235 0.1: 2.731225 - Player Agent 0.1 1: 3.178925
+Round size: 10 - Player AgentMiller bricht aus 235 0.1: 2.7649999999999997 - Player Agent 0.2 1: 3.1149999999999998
+Round size: 500 - Player AgentMiller bricht aus 235 0.1: 2.7549 - Player Agent 0.2 1: 3.1534
+Round size: 10000 - Player AgentMiller bricht aus 235 0.1: 2.7640450000000003 - Player Agent 0.2 1: 3.157195
+Round size: 10 - Player AgentMiller bricht aus 235 0.2: 2.6149999999999998 - Player Agent 0.0 1: 3.19
+Round size: 500 - Player AgentMiller bricht aus 235 0.2: 2.6895 - Player Agent 0.0 1: 3.192
+Round size: 10000 - Player AgentMiller bricht aus 235 0.2: 2.69767 - Player Agent 0.0 1: 3.201195
+Round size: 10 - Player AgentMiller bricht aus 235 0.2: 2.755 - Player Agent 0.0 2: 3.13
+Round size: 500 - Player AgentMiller bricht aus 235 0.2: 2.6877 - Player Agent 0.0 2: 3.1862
+Round size: 10000 - Player AgentMiller bricht aus 235 0.2: 2.703835 - Player Agent 0.0 2: 3.1967849999999998
+Round size: 10 - Player AgentMiller bricht aus 235 0.2: 2.665 - Player Agent 0.0 3: 3.19
+Round size: 500 - Player AgentMiller bricht aus 235 0.2: 2.6835999999999998 - Player Agent 0.0 3: 3.1961
+Round size: 10000 - Player AgentMiller bricht aus 235 0.2: 2.702835 - Player Agent 0.0 3: 3.1977599999999997
+Round size: 10 - Player AgentMiller bricht aus 235 0.2: 2.79 - Player Agent 0.49: 3.09
+Round size: 500 - Player AgentMiller bricht aus 235 0.2: 2.8506 - Player Agent 0.49: 3.0951
+Round size: 10000 - Player AgentMiller bricht aus 235 0.2: 2.84834 - Player Agent 0.49: 3.1010400000000002
+Round size: 10 - Player AgentMiller bricht aus 235 0.2: 2.9699999999999998 - Player Agent 0.8: 2.995
+Round size: 500 - Player AgentMiller bricht aus 235 0.2: 2.9411 - Player Agent 0.8: 3.0366
+Round size: 10000 - Player AgentMiller bricht aus 235 0.2: 2.94069 - Player Agent 0.8: 3.039515
+Round size: 10 - Player AgentMiller bricht aus 235 0.2: 2.685 - Player Agent 0.1 1: 3.16
+Round size: 500 - Player AgentMiller bricht aus 235 0.2: 2.7241 - Player Agent 0.1 1: 3.1661
+Round size: 10000 - Player AgentMiller bricht aus 235 0.2: 2.7285 - Player Agent 0.1 1: 3.18085
+Round size: 10 - Player AgentMiller bricht aus 235 0.2: 2.65 - Player Agent 0.2 1: 3.2
+Round size: 500 - Player AgentMiller bricht aus 235 0.2: 2.739 - Player Agent 0.2 1: 3.1670000000000003
+Round size: 10000 - Player AgentMiller bricht aus 235 0.2: 2.75758 - Player Agent 0.2 1: 3.16143
+Round size: 10 - Player Agent 0.0 1: 2.4050000000000002 - Player Agent 0.0 2: 2.355
+Round size: 500 - Player Agent 0.0 1: 2.2983000000000002 - Player Agent 0.0 2: 2.2832999999999997
+Round size: 10000 - Player Agent 0.0 1: 2.250985 - Player Agent 0.0 2: 2.246885
+Round size: 10 - Player Agent 0.0 1: 2.575 - Player Agent 0.0 3: 2.475
+Round size: 500 - Player Agent 0.0 1: 2.2329 - Player Agent 0.0 3: 2.2469
+Round size: 10000 - Player Agent 0.0 1: 2.24824 - Player Agent 0.0 3: 2.24794
+Round size: 10 - Player Agent 0.0 1: 2.945 - Player Agent 0.49: 2.62
+Round size: 500 - Player Agent 0.0 1: 2.9898 - Player Agent 0.49: 2.6208
+Round size: 10000 - Player Agent 0.0 1: 2.9847349999999997 - Player Agent 0.49: 2.6179099999999997
+Round size: 10 - Player Agent 0.0 1: 3.16 - Player Agent 0.8: 2.66
+Round size: 500 - Player Agent 0.0 1: 3.1385 - Player Agent 0.8: 2.6725000000000003
+Round size: 10000 - Player Agent 0.0 1: 3.13724 - Player Agent 0.8: 2.67809
+Round size: 10 - Player Agent 0.0 1: 2.67 - Player Agent 0.1 1: 2.7199999999999998
+Round size: 500 - Player Agent 0.0 1: 2.5174 - Player Agent 0.1 1: 2.3754
+Round size: 10000 - Player Agent 0.0 1: 2.511515 - Player Agent 0.1 1: 2.39309
+Round size: 10 - Player Agent 0.0 1: 2.91 - Player Agent 0.2 1: 2.66
+Round size: 500 - Player Agent 0.0 1: 2.7103 - Player Agent 0.2 1: 2.4943
+Round size: 10000 - Player Agent 0.0 1: 2.68453 - Player Agent 0.2 1: 2.48078
+Round size: 10 - Player Agent 0.0 2: 2.715 - Player Agent 0.0 3: 2.715
+Round size: 500 - Player Agent 0.0 2: 2.2546 - Player Agent 0.0 3: 2.2456
+Round size: 10000 - Player Agent 0.0 2: 2.253295 - Player Agent 0.0 3: 2.250545
+Round size: 10 - Player Agent 0.0 2: 2.995 - Player Agent 0.49: 2.62
+Round size: 500 - Player Agent 0.0 2: 2.9687 - Player Agent 0.49: 2.6277
+Round size: 10000 - Player Agent 0.0 2: 2.983355 - Player Agent 0.49: 2.61623
+Round size: 10 - Player Agent 0.0 2: 3.16 - Player Agent 0.8: 2.6100000000000003
+Round size: 500 - Player Agent 0.0 2: 3.1431 - Player Agent 0.8: 2.6741
+Round size: 10000 - Player Agent 0.0 2: 3.133895 - Player Agent 0.8: 2.6839950000000004
+Round size: 10 - Player Agent 0.0 2: 2.705 - Player Agent 0.1 1: 2.6550000000000002
+Round size: 500 - Player Agent 0.0 2: 2.509 - Player Agent 0.1 1: 2.394
+Round size: 10000 - Player Agent 0.0 2: 2.501295 - Player Agent 0.1 1: 2.38377
+Round size: 10 - Player Agent 0.0 2: 2.83 - Player Agent 0.2 1: 2.58
+Round size: 500 - Player Agent 0.0 2: 2.7036000000000002 - Player Agent 0.2 1: 2.5196
+Round size: 10000 - Player Agent 0.0 2: 2.691595 - Player Agent 0.2 1: 2.484095
+Round size: 10 - Player Agent 0.0 3: 2.96 - Player Agent 0.49: 2.66
+Round size: 500 - Player Agent 0.0 3: 2.9861999999999997 - Player Agent 0.49: 2.6262
+Round size: 10000 - Player Agent 0.0 3: 2.9808399999999997 - Player Agent 0.49: 2.61969
+Round size: 10 - Player Agent 0.0 3: 3.145 - Player Agent 0.8: 2.62
+Round size: 500 - Player Agent 0.0 3: 3.1297 - Player Agent 0.8: 2.6882
+Round size: 10000 - Player Agent 0.0 3: 3.1379200000000003 - Player Agent 0.8: 2.674695
+Round size: 10 - Player Agent 0.0 3: 2.77 - Player Agent 0.1 1: 2.62
+Round size: 500 - Player Agent 0.0 3: 2.5381 - Player Agent 0.1 1: 2.4216
+Round size: 10000 - Player Agent 0.0 3: 2.516535 - Player Agent 0.1 1: 2.4017600000000003
+Round size: 10 - Player Agent 0.0 3: 2.8 - Player Agent 0.2 1: 2.575
+Round size: 500 - Player Agent 0.0 3: 2.706 - Player Agent 0.2 1: 2.4885
+Round size: 10000 - Player Agent 0.0 3: 2.691305 - Player Agent 0.2 1: 2.483355
+Round size: 10 - Player Agent 0.49: 3.025 - Player Agent 0.8: 2.9
+Round size: 500 - Player Agent 0.49: 3.0324999999999998 - Player Agent 0.8: 2.87
+Round size: 10000 - Player Agent 0.49: 3.03661 - Player Agent 0.8: 2.86626
+Round size: 10 - Player Agent 0.49: 2.79 - Player Agent 0.1 1: 2.965
+Round size: 500 - Player Agent 0.49: 2.6938 - Player Agent 0.1 1: 2.9528
+Round size: 10000 - Player Agent 0.49: 2.689095 - Player Agent 0.1 1: 2.964245
+Round size: 10 - Player Agent 0.49: 2.8449999999999998 - Player Agent 0.2 1: 3.02
+Round size: 500 - Player Agent 0.49: 2.7526 - Player Agent 0.2 1: 2.9466
+Round size: 10000 - Player Agent 0.49: 2.753485 - Player Agent 0.2 1: 2.94736
+Round size: 10 - Player Agent 0.8: 2.705 - Player Agent 0.1 1: 3.13
+Round size: 500 - Player Agent 0.8: 2.731 - Player Agent 0.1 1: 3.1079999999999997
+Round size: 10000 - Player Agent 0.8: 2.7171399999999997 - Player Agent 0.1 1: 3.11544
+Round size: 10 - Player Agent 0.8: 2.81 - Player Agent 0.2 1: 3.035
+Round size: 500 - Player Agent 0.8: 2.7808 - Player Agent 0.2 1: 3.0718
+Round size: 10000 - Player Agent 0.8: 2.758995 - Player Agent 0.2 1: 3.09287
+Round size: 10 - Player Agent 0.1 1: 2.835 - Player Agent 0.2 1: 2.71
+Round size: 500 - Player Agent 0.1 1: 2.7149 - Player Agent 0.2 1: 2.6229
+Round size: 10000 - Player Agent 0.1 1: 2.7119299999999997 - Player Agent 0.2 1: 2.62263
+Scores (Sorted):
+1. Agent 0.0 1: 2275.46
+2. Agent 0.0 3: 2274.33
+3. Agent 0.1 1: 2274.23
+4. Agent 0.0 2: 2272.99
+5. Agent 0.2 1: 2272.97
+6. Agent 0.49: 2262.03
+7. AgentMiller bricht aus 124 0.0: 2242.58
+8. AgentMiller bricht aus 124 0.1: 2241.17
+9. AgentMiller bricht aus 124 0.2: 2240.30
+10. Agent 0.8: 2237.92
+11. AgentMiller bricht aus 235 0.0: 2231.75
+12. AgentMiller bricht aus 235 0.1: 2223.47
+13. AgentMiller bricht aus 235 0.2: 2218.12
+14. Agent immer C: 2217.74
+Resetting scores 
+
+
+Competition started with 14 agents
+Noisy:
+Round size: 10 - Player Agent immer C: 2.718 - Player AgentMiller bricht aus 124 0.1: 3.188
+Round size: 500 - Player Agent immer C: 2.97384 - Player AgentMiller bricht aus 124 0.1: 3.01744
+Round size: 10000 - Player Agent immer C: 2.9998020000000003 - Player AgentMiller bricht aus 124 0.1: 3.000132
+Round size: 10 - Player Agent immer C: 2.73 - Player AgentMiller bricht aus 124 0.0: 3.18
+Round size: 500 - Player Agent immer C: 2.9682 - Player AgentMiller bricht aus 124 0.0: 3.0212
+Round size: 10000 - Player Agent immer C: 2.9997059999999998 - Player AgentMiller bricht aus 124 0.0: 3.0001960000000003
+Round size: 10 - Player Agent immer C: 2.766 - Player AgentMiller bricht aus 124 0.2: 3.156
+Round size: 500 - Player Agent immer C: 2.9780399999999996 - Player AgentMiller bricht aus 124 0.2: 3.01464
+Round size: 10000 - Player Agent immer C: 2.999796 - Player AgentMiller bricht aus 124 0.2: 3.000136
+Round size: 10 - Player Agent immer C: 2.97 - Player AgentMiller bricht aus 235 0.0: 3.02
+Round size: 500 - Player Agent immer C: 2.99532 - Player AgentMiller bricht aus 235 0.0: 3.00312
+Round size: 10000 - Player Agent immer C: 2.9999400000000005 - Player AgentMiller bricht aus 235 0.0: 3.0000400000000003
+Round size: 10 - Player Agent immer C: 2.958 - Player AgentMiller bricht aus 235 0.1: 3.028
+Round size: 500 - Player Agent immer C: 2.99688 - Player AgentMiller bricht aus 235 0.1: 3.0020800000000003
+Round size: 10000 - Player Agent immer C: 2.999958 - Player AgentMiller bricht aus 235 0.1: 3.000028
+Round size: 10 - Player Agent immer C: 2.9819999999999998 - Player AgentMiller bricht aus 235 0.2: 3.012
+Round size: 500 - Player Agent immer C: 2.99844 - Player AgentMiller bricht aus 235 0.2: 3.0010399999999997
+Round size: 10000 - Player Agent immer C: 2.9999700000000002 - Player AgentMiller bricht aus 235 0.2: 3.00002
+Round size: 10 - Player Agent immer C: 2.736 - Player Agent 0.0 1: 3.176
+Round size: 500 - Player Agent immer C: 2.7006 - Player Agent 0.0 1: 3.1995999999999998
+Round size: 10000 - Player Agent immer C: 2.6989980000000005 - Player Agent 0.0 1: 3.200668
+Round size: 10 - Player Agent immer C: 2.742 - Player Agent 0.0 2: 3.1719999999999997
+Round size: 500 - Player Agent immer C: 2.7050400000000003 - Player Agent 0.0 2: 3.19664
+Round size: 10000 - Player Agent immer C: 2.70132 - Player Agent 0.0 2: 3.1991199999999997
+Round size: 10 - Player Agent immer C: 2.742 - Player Agent 0.0 3: 3.1719999999999997
+Round size: 500 - Player Agent immer C: 2.69868 - Player Agent 0.0 3: 3.20088
+Round size: 10000 - Player Agent immer C: 2.701848 - Player Agent 0.0 3: 3.198768
+Round size: 10 - Player Agent immer C: 2.838 - Player Agent 0.49: 3.108
+Round size: 500 - Player Agent immer C: 2.8448399999999996 - Player Agent 0.49: 3.10344
+Round size: 10000 - Player Agent immer C: 2.84682 - Player Agent 0.49: 3.1021199999999998
+Round size: 10 - Player Agent immer C: 2.988 - Player Agent 0.8: 3.008
+Round size: 500 - Player Agent immer C: 2.9418 - Player Agent 0.8: 3.0388
+Round size: 10000 - Player Agent immer C: 2.940138 - Player Agent 0.8: 3.0399079999999996
+Round size: 10 - Player Agent immer C: 2.784 - Player Agent 0.1 1: 3.1439999999999997
+Round size: 500 - Player Agent immer C: 2.73348 - Player Agent 0.1 1: 3.1776799999999996
+Round size: 10000 - Player Agent immer C: 2.727738 - Player Agent 0.1 1: 3.181508
+Round size: 10 - Player Agent immer C: 2.802 - Player Agent 0.2 1: 3.1319999999999997
+Round size: 500 - Player Agent immer C: 2.75784 - Player Agent 0.2 1: 3.1614400000000002
+Round size: 10000 - Player Agent immer C: 2.7612240000000003 - Player Agent 0.2 1: 3.159184
+Round size: 10 - Player AgentMiller bricht aus 124 0.1: 2.63 - Player AgentMiller bricht aus 124 0.0: 2.75
+Round size: 500 - Player AgentMiller bricht aus 124 0.1: 2.98084 - Player AgentMiller bricht aus 124 0.0: 2.99144
+Round size: 10000 - Player AgentMiller bricht aus 124 0.1: 2.99988 - Player AgentMiller bricht aus 124 0.0: 2.99988
+Round size: 10 - Player AgentMiller bricht aus 124 0.1: 2.86 - Player AgentMiller bricht aus 124 0.2: 2.84
+Round size: 500 - Player AgentMiller bricht aus 124 0.1: 2.9930000000000003 - Player AgentMiller bricht aus 124 0.2: 2.9872
+Round size: 10000 - Player AgentMiller bricht aus 124 0.1: 2.9999059999999997 - Player AgentMiller bricht aus 124 0.2: 2.9999160000000002
+Round size: 10 - Player AgentMiller bricht aus 124 0.1: 3.12 - Player AgentMiller bricht aus 235 0.0: 2.72
+Round size: 500 - Player AgentMiller bricht aus 124 0.1: 3.01248 - Player AgentMiller bricht aus 235 0.0: 2.97728
+Round size: 10000 - Player AgentMiller bricht aus 124 0.1: 3.0001659999999997 - Player AgentMiller bricht aus 235 0.0: 2.9997160000000003
+Round size: 10 - Player AgentMiller bricht aus 124 0.1: 3.072 - Player AgentMiller bricht aus 235 0.1: 2.6719999999999997
+Round size: 500 - Player AgentMiller bricht aus 124 0.1: 3.0130399999999997 - Player AgentMiller bricht aus 235 0.1: 2.97684
+Round size: 10000 - Player AgentMiller bricht aus 124 0.1: 3.0001459999999995 - Player AgentMiller bricht aus 235 0.1: 2.999696
+Round size: 10 - Player AgentMiller bricht aus 124 0.1: 3.0860000000000003 - Player AgentMiller bricht aus 235 0.2: 2.8160000000000003
+Round size: 500 - Player AgentMiller bricht aus 124 0.1: 3.01392 - Player AgentMiller bricht aus 235 0.2: 2.9741199999999997
+Round size: 10000 - Player AgentMiller bricht aus 124 0.1: 3.0002240000000002 - Player AgentMiller bricht aus 235 0.2: 2.999634
+Round size: 10 - Player AgentMiller bricht aus 124 0.1: 2.66 - Player Agent 0.0 1: 2.73
+Round size: 500 - Player AgentMiller bricht aus 124 0.1: 2.66212 - Player Agent 0.0 1: 3.12032
+Round size: 10000 - Player AgentMiller bricht aus 124 0.1: 2.6970080000000003 - Player Agent 0.0 1: 3.198628
+Round size: 10 - Player AgentMiller bricht aus 124 0.1: 2.702 - Player Agent 0.0 2: 2.7119999999999997
+Round size: 500 - Player AgentMiller bricht aus 124 0.1: 2.66964 - Player Agent 0.0 2: 3.11724
+Round size: 10000 - Player AgentMiller bricht aus 124 0.1: 2.6995280000000004 - Player Agent 0.0 2: 3.196808
+Round size: 10 - Player AgentMiller bricht aus 124 0.1: 2.698 - Player Agent 0.0 3: 2.688
+Round size: 500 - Player AgentMiller bricht aus 124 0.1: 2.6661200000000003 - Player Agent 0.0 3: 3.12332
+Round size: 10000 - Player AgentMiller bricht aus 124 0.1: 2.699906 - Player Agent 0.0 3: 3.196576
+Round size: 10 - Player AgentMiller bricht aus 124 0.1: 2.9560000000000004 - Player Agent 0.49: 2.736
+Round size: 500 - Player AgentMiller bricht aus 124 0.1: 2.86464 - Player Agent 0.49: 3.0528399999999998
+Round size: 10000 - Player AgentMiller bricht aus 124 0.1: 2.845514 - Player Agent 0.49: 3.1023039999999997
+Round size: 10 - Player AgentMiller bricht aus 124 0.1: 3.15 - Player Agent 0.8: 2.71
+Round size: 500 - Player AgentMiller bricht aus 124 0.1: 2.9626799999999998 - Player Agent 0.8: 3.00128
+Round size: 10000 - Player AgentMiller bricht aus 124 0.1: 2.9408879999999997 - Player Agent 0.8: 3.039188
+Round size: 10 - Player AgentMiller bricht aus 124 0.1: 2.8 - Player Agent 0.1 1: 2.7
+Round size: 500 - Player AgentMiller bricht aus 124 0.1: 2.72684 - Player Agent 0.1 1: 3.11084
+Round size: 10000 - Player AgentMiller bricht aus 124 0.1: 2.728064 - Player Agent 0.1 1: 3.178714
+Round size: 10 - Player AgentMiller bricht aus 124 0.1: 2.786 - Player Agent 0.2 1: 2.826
+Round size: 500 - Player AgentMiller bricht aus 124 0.1: 2.75776 - Player Agent 0.2 1: 3.09596
+Round size: 10000 - Player AgentMiller bricht aus 124 0.1: 2.760752 - Player Agent 0.2 1: 3.157912
+Round size: 10 - Player AgentMiller bricht aus 124 0.0: 2.8 - Player AgentMiller bricht aus 124 0.2: 2.64
+Round size: 500 - Player AgentMiller bricht aus 124 0.0: 2.9962 - Player AgentMiller bricht aus 124 0.2: 2.9795999999999996
+Round size: 10000 - Player AgentMiller bricht aus 124 0.0: 2.9999900000000004 - Player AgentMiller bricht aus 124 0.2: 2.99982
+Round size: 10 - Player AgentMiller bricht aus 124 0.0: 3.128 - Player AgentMiller bricht aus 235 0.0: 2.758
+Round size: 500 - Player AgentMiller bricht aus 124 0.0: 3.01712 - Player AgentMiller bricht aus 235 0.0: 2.97152
+Round size: 10000 - Player AgentMiller bricht aus 124 0.0: 3.000184 - Player AgentMiller bricht aus 235 0.0: 2.999694
+Round size: 10 - Player AgentMiller bricht aus 124 0.0: 3.094 - Player AgentMiller bricht aus 235 0.1: 2.6839999999999997
+Round size: 500 - Player AgentMiller bricht aus 124 0.0: 3.01844 - Player AgentMiller bricht aus 235 0.1: 2.96884
+Round size: 10000 - Player AgentMiller bricht aus 124 0.0: 3.000106 - Player AgentMiller bricht aus 235 0.1: 2.999766
+Round size: 10 - Player AgentMiller bricht aus 124 0.0: 3.1239999999999997 - Player AgentMiller bricht aus 235 0.2: 2.7239999999999998
+Round size: 500 - Player AgentMiller bricht aus 124 0.0: 3.0161200000000004 - Player AgentMiller bricht aus 235 0.2: 2.97132
+Round size: 10000 - Player AgentMiller bricht aus 124 0.0: 3.0001420000000003 - Player AgentMiller bricht aus 235 0.2: 2.999742
+Round size: 10 - Player AgentMiller bricht aus 124 0.0: 2.716 - Player Agent 0.0 1: 2.766
+Round size: 500 - Player AgentMiller bricht aus 124 0.0: 2.6302 - Player Agent 0.0 1: 3.0924
+Round size: 10000 - Player AgentMiller bricht aus 124 0.0: 2.6987520000000003 - Player Agent 0.0 1: 3.196402
+Round size: 10 - Player AgentMiller bricht aus 124 0.0: 2.6660000000000004 - Player Agent 0.0 2: 2.636
+Round size: 500 - Player AgentMiller bricht aus 124 0.0: 2.63888 - Player Agent 0.0 2: 3.0844799999999997
+Round size: 10000 - Player AgentMiller bricht aus 124 0.0: 2.696332 - Player Agent 0.0 2: 3.197772
+Round size: 10 - Player AgentMiller bricht aus 124 0.0: 2.636 - Player Agent 0.0 3: 2.6460000000000004
+Round size: 500 - Player AgentMiller bricht aus 124 0.0: 2.64388 - Player Agent 0.0 3: 3.09408
+Round size: 10000 - Player AgentMiller bricht aus 124 0.0: 2.695332 - Player Agent 0.0 3: 3.1979520000000003
+Round size: 10 - Player AgentMiller bricht aus 124 0.0: 3.0 - Player Agent 0.49: 2.68
+Round size: 500 - Player AgentMiller bricht aus 124 0.0: 2.85852 - Player Agent 0.49: 3.0509199999999996
+Round size: 10000 - Player AgentMiller bricht aus 124 0.0: 2.848734 - Player Agent 0.49: 3.100104
+Round size: 10 - Player AgentMiller bricht aus 124 0.0: 3.15 - Player Agent 0.8: 2.69
+Round size: 500 - Player AgentMiller bricht aus 124 0.0: 2.96028 - Player Agent 0.8: 3.0022800000000003
+Round size: 10000 - Player AgentMiller bricht aus 124 0.0: 2.9399919999999997 - Player Agent 0.8: 3.039722
+Round size: 10 - Player AgentMiller bricht aus 124 0.0: 2.7760000000000002 - Player Agent 0.1 1: 2.696
+Round size: 500 - Player AgentMiller bricht aus 124 0.0: 2.71856 - Player Agent 0.1 1: 3.09596
+Round size: 10000 - Player AgentMiller bricht aus 124 0.0: 2.730074 - Player Agent 0.1 1: 3.176884
+Round size: 10 - Player AgentMiller bricht aus 124 0.0: 2.8080000000000003 - Player Agent 0.2 1: 2.658
+Round size: 500 - Player AgentMiller bricht aus 124 0.0: 2.75548 - Player Agent 0.2 1: 3.09208
+Round size: 10000 - Player AgentMiller bricht aus 124 0.0: 2.760582 - Player Agent 0.2 1: 3.157412
+Round size: 10 - Player AgentMiller bricht aus 124 0.2: 3.0639999999999996 - Player AgentMiller bricht aus 235 0.0: 2.844
+Round size: 500 - Player AgentMiller bricht aus 124 0.2: 3.0115600000000002 - Player AgentMiller bricht aus 235 0.0: 2.9775599999999995
+Round size: 10000 - Player AgentMiller bricht aus 124 0.2: 3.000108 - Player AgentMiller bricht aus 235 0.0: 2.999778
+Round size: 10 - Player AgentMiller bricht aus 124 0.2: 3.028 - Player AgentMiller bricht aus 235 0.1: 2.858
+Round size: 500 - Player AgentMiller bricht aus 124 0.2: 3.0151600000000003 - Player AgentMiller bricht aus 235 0.1: 2.97496
+Round size: 10000 - Player AgentMiller bricht aus 124 0.2: 3.00013 - Player AgentMiller bricht aus 235 0.1: 2.99974
+Round size: 10 - Player AgentMiller bricht aus 124 0.2: 3.072 - Player AgentMiller bricht aus 235 0.2: 2.772
+Round size: 500 - Player AgentMiller bricht aus 124 0.2: 3.0144 - Player AgentMiller bricht aus 235 0.2: 2.9762
+Round size: 10000 - Player AgentMiller bricht aus 124 0.2: 3.0000999999999998 - Player AgentMiller bricht aus 235 0.2: 2.9998
+Round size: 10 - Player AgentMiller bricht aus 124 0.2: 2.7560000000000002 - Player Agent 0.0 1: 2.9160000000000004
+Round size: 500 - Player AgentMiller bricht aus 124 0.2: 2.67392 - Player Agent 0.0 1: 3.1427199999999997
+Round size: 10000 - Player AgentMiller bricht aus 124 0.2: 2.6988920000000003 - Player Agent 0.0 1: 3.197962
+Round size: 10 - Player AgentMiller bricht aus 124 0.2: 2.6860000000000004 - Player Agent 0.0 2: 2.846
+Round size: 500 - Player AgentMiller bricht aus 124 0.2: 2.675 - Player Agent 0.0 2: 3.1448
+Round size: 10000 - Player AgentMiller bricht aus 124 0.2: 2.6990480000000003 - Player Agent 0.0 2: 3.1980579999999996
+Round size: 10 - Player AgentMiller bricht aus 124 0.2: 2.696 - Player Agent 0.0 3: 2.806
+Round size: 500 - Player AgentMiller bricht aus 124 0.2: 2.67096 - Player Agent 0.0 3: 3.14056
+Round size: 10000 - Player AgentMiller bricht aus 124 0.2: 2.6998219999999997 - Player Agent 0.0 3: 3.197792
+Round size: 10 - Player AgentMiller bricht aus 124 0.2: 2.9960000000000004 - Player Agent 0.49: 2.8160000000000003
+Round size: 500 - Player AgentMiller bricht aus 124 0.2: 2.8666 - Player Agent 0.49: 3.0556
+Round size: 10000 - Player AgentMiller bricht aus 124 0.2: 2.847878 - Player Agent 0.49: 3.100748
+Round size: 10 - Player AgentMiller bricht aus 124 0.2: 3.1060000000000003 - Player Agent 0.8: 2.7560000000000002
+Round size: 500 - Player AgentMiller bricht aus 124 0.2: 2.95532 - Player Agent 0.8: 3.00952
+Round size: 10000 - Player AgentMiller bricht aus 124 0.2: 2.93974 - Player Agent 0.8: 3.0399000000000003
+Round size: 10 - Player AgentMiller bricht aus 124 0.2: 2.682 - Player Agent 0.1 1: 2.772
+Round size: 500 - Player AgentMiller bricht aus 124 0.2: 2.71476 - Player Agent 0.1 1: 3.12276
+Round size: 10000 - Player AgentMiller bricht aus 124 0.2: 2.729228 - Player Agent 0.1 1: 3.178758
+Round size: 10 - Player AgentMiller bricht aus 124 0.2: 2.802 - Player Agent 0.2 1: 2.832
+Round size: 500 - Player AgentMiller bricht aus 124 0.2: 2.76228 - Player Agent 0.2 1: 3.10788
+Round size: 10000 - Player AgentMiller bricht aus 124 0.2: 2.75953 - Player Agent 0.2 1: 3.15887
+Round size: 10 - Player AgentMiller bricht aus 235 0.0: 2.986 - Player AgentMiller bricht aus 235 0.1: 2.986
+Round size: 500 - Player AgentMiller bricht aus 235 0.0: 2.9994 - Player AgentMiller bricht aus 235 0.1: 2.9981999999999998
+Round size: 10000 - Player AgentMiller bricht aus 235 0.0: 2.9999979999999997 - Player AgentMiller bricht aus 235 0.1: 2.999958
+Round size: 10 - Player AgentMiller bricht aus 235 0.0: 2.98 - Player AgentMiller bricht aus 235 0.2: 2.98
+Round size: 500 - Player AgentMiller bricht aus 235 0.0: 2.99952 - Player AgentMiller bricht aus 235 0.2: 2.99832
+Round size: 10000 - Player AgentMiller bricht aus 235 0.0: 2.9999939999999996 - Player AgentMiller bricht aus 235 0.2: 2.9999439999999997
+Round size: 10 - Player AgentMiller bricht aus 235 0.0: 2.638 - Player Agent 0.0 1: 3.108
+Round size: 500 - Player AgentMiller bricht aus 235 0.0: 2.69112 - Player Agent 0.0 1: 3.1829199999999997
+Round size: 10000 - Player AgentMiller bricht aus 235 0.0: 2.697216 - Player Agent 0.0 1: 3.200576
+Round size: 10 - Player AgentMiller bricht aus 235 0.0: 2.6839999999999997 - Player Agent 0.0 2: 3.154
+Round size: 500 - Player AgentMiller bricht aus 235 0.0: 2.6822000000000004 - Player Agent 0.0 2: 3.1883999999999997
+Round size: 10000 - Player AgentMiller bricht aus 235 0.0: 2.697892 - Player Agent 0.0 2: 3.200392
+Round size: 10 - Player AgentMiller bricht aus 235 0.0: 2.676 - Player Agent 0.0 3: 3.1060000000000003
+Round size: 500 - Player AgentMiller bricht aus 235 0.0: 2.6963600000000003 - Player Agent 0.0 3: 3.1811599999999998
+Round size: 10000 - Player AgentMiller bricht aus 235 0.0: 2.699222 - Player Agent 0.0 3: 3.1997820000000003
+Round size: 10 - Player AgentMiller bricht aus 235 0.0: 2.9139999999999997 - Player Agent 0.49: 2.984
+Round size: 500 - Player AgentMiller bricht aus 235 0.0: 2.8451999999999997 - Player Agent 0.49: 3.0968
+Round size: 10000 - Player AgentMiller bricht aus 235 0.0: 2.84678 - Player Agent 0.49: 3.102
+Round size: 10 - Player AgentMiller bricht aus 235 0.0: 2.972 - Player Agent 0.8: 2.992
+Round size: 500 - Player AgentMiller bricht aus 235 0.0: 2.9442000000000004 - Player Agent 0.8: 3.0348
+Round size: 10000 - Player AgentMiller bricht aus 235 0.0: 2.93927 - Player Agent 0.8: 3.04041
+Round size: 10 - Player AgentMiller bricht aus 235 0.0: 2.7880000000000003 - Player Agent 0.1 1: 3.0580000000000003
+Round size: 500 - Player AgentMiller bricht aus 235 0.0: 2.72132 - Player Agent 0.1 1: 3.1545199999999998
+Round size: 10000 - Player AgentMiller bricht aus 235 0.0: 2.729366 - Player Agent 0.1 1: 3.179996
+Round size: 10 - Player AgentMiller bricht aus 235 0.0: 2.822 - Player Agent 0.2 1: 3.022
+Round size: 500 - Player AgentMiller bricht aus 235 0.0: 2.76372 - Player Agent 0.2 1: 3.14752
+Round size: 10000 - Player AgentMiller bricht aus 235 0.0: 2.7594279999999998 - Player Agent 0.2 1: 3.160088
+Round size: 10 - Player AgentMiller bricht aus 235 0.1: 2.9760000000000004 - Player AgentMiller bricht aus 235 0.2: 2.9960000000000004
+Round size: 500 - Player AgentMiller bricht aus 235 0.1: 2.9988 - Player AgentMiller bricht aus 235 0.2: 2.9994
+Round size: 10000 - Player AgentMiller bricht aus 235 0.1: 3.000004 - Player AgentMiller bricht aus 235 0.2: 2.999964
+Round size: 10 - Player AgentMiller bricht aus 235 0.1: 2.708 - Player Agent 0.0 1: 3.0980000000000003
+Round size: 500 - Player AgentMiller bricht aus 235 0.1: 2.7032 - Player Agent 0.0 1: 3.1862
+Round size: 10000 - Player AgentMiller bricht aus 235 0.1: 2.699794 - Player Agent 0.0 1: 3.1996539999999998
+Round size: 10 - Player AgentMiller bricht aus 235 0.1: 2.662 - Player Agent 0.0 2: 3.1919999999999997
+Round size: 500 - Player AgentMiller bricht aus 235 0.1: 2.6888400000000003 - Player Agent 0.0 2: 3.1910399999999997
+Round size: 10000 - Player AgentMiller bricht aus 235 0.1: 2.7002460000000004 - Player Agent 0.0 2: 3.199156
+Round size: 10 - Player AgentMiller bricht aus 235 0.1: 2.764 - Player Agent 0.0 3: 3.0839999999999996
+Round size: 500 - Player AgentMiller bricht aus 235 0.1: 2.68596 - Player Agent 0.0 3: 3.1913600000000004
+Round size: 10000 - Player AgentMiller bricht aus 235 0.1: 2.69983 - Player Agent 0.0 3: 3.19978
+Round size: 10 - Player AgentMiller bricht aus 235 0.1: 2.866 - Player Agent 0.49: 3.016
+Round size: 500 - Player AgentMiller bricht aus 235 0.1: 2.84584 - Player Agent 0.49: 3.0962400000000003
+Round size: 10000 - Player AgentMiller bricht aus 235 0.1: 2.8466620000000002 - Player Agent 0.49: 3.1021319999999997
+Round size: 10 - Player AgentMiller bricht aus 235 0.1: 2.9739999999999998 - Player Agent 0.8: 2.984
+Round size: 500 - Player AgentMiller bricht aus 235 0.1: 2.94192 - Player Agent 0.8: 3.03572
+Round size: 10000 - Player AgentMiller bricht aus 235 0.1: 2.939712 - Player Agent 0.8: 3.040152
+Round size: 10 - Player AgentMiller bricht aus 235 0.1: 2.752 - Player Agent 0.1 1: 3.112
+Round size: 500 - Player AgentMiller bricht aus 235 0.1: 2.72416 - Player Agent 0.1 1: 3.1719600000000003
+Round size: 10000 - Player AgentMiller bricht aus 235 0.1: 2.7271159999999997 - Player Agent 0.1 1: 3.181696
+Round size: 10 - Player AgentMiller bricht aus 235 0.1: 2.758 - Player Agent 0.2 1: 3.108
+Round size: 500 - Player AgentMiller bricht aus 235 0.1: 2.7623599999999997 - Player Agent 0.2 1: 3.14876
+Round size: 10000 - Player AgentMiller bricht aus 235 0.1: 2.758368 - Player Agent 0.2 1: 3.160888
+Round size: 10 - Player AgentMiller bricht aus 235 0.2: 2.6919999999999997 - Player Agent 0.0 1: 3.102
+Round size: 500 - Player AgentMiller bricht aus 235 0.2: 2.68676 - Player Agent 0.0 1: 3.1957600000000004
+Round size: 10000 - Player AgentMiller bricht aus 235 0.2: 2.6992559999999997 - Player Agent 0.0 1: 3.1997359999999997
+Round size: 10 - Player AgentMiller bricht aus 235 0.2: 2.654 - Player Agent 0.0 2: 3.1239999999999997
+Round size: 500 - Player AgentMiller bricht aus 235 0.2: 2.7 - Player Agent 0.0 2: 3.1844
+Round size: 10000 - Player AgentMiller bricht aus 235 0.2: 2.699074 - Player Agent 0.0 2: 3.199984
+Round size: 10 - Player AgentMiller bricht aus 235 0.2: 2.76 - Player Agent 0.0 3: 3.1
+Round size: 500 - Player AgentMiller bricht aus 235 0.2: 2.7018 - Player Agent 0.0 3: 3.1822000000000004
+Round size: 10000 - Player AgentMiller bricht aus 235 0.2: 2.6995319999999996 - Player Agent 0.0 3: 3.1998719999999996
+Round size: 10 - Player AgentMiller bricht aus 235 0.2: 2.884 - Player Agent 0.49: 3.0239999999999996
+Round size: 500 - Player AgentMiller bricht aus 235 0.2: 2.8382799999999997 - Player Agent 0.49: 3.10168
+Round size: 10000 - Player AgentMiller bricht aus 235 0.2: 2.8456420000000002 - Player Agent 0.49: 3.102772
+Round size: 10 - Player AgentMiller bricht aus 235 0.2: 2.912 - Player Agent 0.8: 3.042
+Round size: 500 - Player AgentMiller bricht aus 235 0.2: 2.9433999999999996 - Player Agent 0.8: 3.035
+Round size: 10000 - Player AgentMiller bricht aus 235 0.2: 2.940656 - Player Agent 0.8: 3.039516
+Round size: 10 - Player AgentMiller bricht aus 235 0.2: 2.736 - Player Agent 0.1 1: 3.1060000000000003
+Round size: 500 - Player AgentMiller bricht aus 235 0.2: 2.7299200000000003 - Player Agent 0.1 1: 3.16872
+Round size: 10000 - Player AgentMiller bricht aus 235 0.2: 2.7275259999999997 - Player Agent 0.1 1: 3.1812560000000003
+Round size: 10 - Player AgentMiller bricht aus 235 0.2: 2.7739999999999996 - Player Agent 0.2 1: 3.034
+Round size: 500 - Player AgentMiller bricht aus 235 0.2: 2.76012 - Player Agent 0.2 1: 3.1509199999999997
+Round size: 10000 - Player AgentMiller bricht aus 235 0.2: 2.7613619999999997 - Player Agent 0.2 1: 3.1588119999999997
+Round size: 10 - Player Agent 0.0 1: 2.612 - Player Agent 0.0 2: 2.612
+Round size: 500 - Player Agent 0.0 1: 2.24524 - Player Agent 0.0 2: 2.2420400000000003
+Round size: 10000 - Player Agent 0.0 1: 2.251746 - Player Agent 0.0 2: 2.248726
+Round size: 10 - Player Agent 0.0 1: 2.66 - Player Agent 0.0 3: 2.68
+Round size: 500 - Player Agent 0.0 1: 2.24652 - Player Agent 0.0 3: 2.23912
+Round size: 10000 - Player Agent 0.0 1: 2.2502180000000003 - Player Agent 0.0 3: 2.251868
+Round size: 10 - Player Agent 0.0 1: 2.906 - Player Agent 0.49: 2.716
+Round size: 500 - Player Agent 0.0 1: 2.97492 - Player Agent 0.49: 2.61952
+Round size: 10000 - Player Agent 0.0 1: 2.980022 - Player Agent 0.49: 2.614262
+Round size: 10 - Player Agent 0.0 1: 3.108 - Player Agent 0.8: 2.718
+Round size: 500 - Player Agent 0.0 1: 3.1378 - Player Agent 0.8: 2.6792000000000002
+Round size: 10000 - Player Agent 0.0 1: 3.136612 - Player Agent 0.8: 2.678312
+Round size: 10 - Player Agent 0.0 1: 2.764 - Player Agent 0.1 1: 2.734
+Round size: 500 - Player Agent 0.0 1: 2.5184800000000003 - Player Agent 0.1 1: 2.40588
+Round size: 10000 - Player Agent 0.0 1: 2.512324 - Player Agent 0.1 1: 2.391484
+Round size: 10 - Player Agent 0.0 1: 2.72 - Player Agent 0.2 1: 2.69
+Round size: 500 - Player Agent 0.0 1: 2.69464 - Player Agent 0.2 1: 2.49324
+Round size: 10000 - Player Agent 0.0 1: 2.689194 - Player Agent 0.2 1: 2.485424
+Round size: 10 - Player Agent 0.0 2: 2.676 - Player Agent 0.0 3: 2.5860000000000003
+Round size: 500 - Player Agent 0.0 2: 2.2706 - Player Agent 0.0 3: 2.2714
+Round size: 10000 - Player Agent 0.0 2: 2.250642 - Player Agent 0.0 3: 2.247722
+Round size: 10 - Player Agent 0.0 2: 3.01 - Player Agent 0.49: 2.68
+Round size: 500 - Player Agent 0.0 2: 2.97796 - Player Agent 0.49: 2.62036
+Round size: 10000 - Player Agent 0.0 2: 2.981146 - Player Agent 0.49: 2.6158159999999997
+Round size: 10 - Player Agent 0.0 2: 3.128 - Player Agent 0.8: 2.718
+Round size: 500 - Player Agent 0.0 2: 3.13336 - Player Agent 0.8: 2.6801600000000003
+Round size: 10000 - Player Agent 0.0 2: 3.1359280000000003 - Player Agent 0.8: 2.678918
+Round size: 10 - Player Agent 0.0 2: 2.662 - Player Agent 0.1 1: 2.572
+Round size: 500 - Player Agent 0.0 2: 2.50332 - Player Agent 0.1 1: 2.38632
+Round size: 10000 - Player Agent 0.0 2: 2.508804 - Player Agent 0.1 1: 2.3850040000000003
+Round size: 10 - Player Agent 0.0 2: 2.824 - Player Agent 0.2 1: 2.674
+Round size: 500 - Player Agent 0.0 2: 2.6795999999999998 - Player Agent 0.2 1: 2.4818000000000002
+Round size: 10000 - Player Agent 0.0 2: 2.689942 - Player Agent 0.2 1: 2.479112
+Round size: 10 - Player Agent 0.0 3: 2.98 - Player Agent 0.49: 2.7
+Round size: 500 - Player Agent 0.0 3: 2.9825999999999997 - Player Agent 0.49: 2.6176
+Round size: 10000 - Player Agent 0.0 3: 2.98181 - Player Agent 0.49: 2.6158300000000003
+Round size: 10 - Player Agent 0.0 3: 3.094 - Player Agent 0.8: 2.7539999999999996
+Round size: 500 - Player Agent 0.0 3: 3.13036 - Player Agent 0.8: 2.67536
+Round size: 10000 - Player Agent 0.0 3: 3.13661 - Player Agent 0.8: 2.67781
+Round size: 10 - Player Agent 0.0 3: 2.562 - Player Agent 0.1 1: 2.542
+Round size: 500 - Player Agent 0.0 3: 2.50584 - Player Agent 0.1 1: 2.3870400000000003
+Round size: 10000 - Player Agent 0.0 3: 2.51098 - Player Agent 0.1 1: 2.39154
+Round size: 10 - Player Agent 0.0 3: 2.786 - Player Agent 0.2 1: 2.6860000000000004
+Round size: 500 - Player Agent 0.0 3: 2.69868 - Player Agent 0.2 1: 2.5030799999999997
+Round size: 10000 - Player Agent 0.0 3: 2.6930259999999997 - Player Agent 0.2 1: 2.4836259999999997
+Round size: 10 - Player Agent 0.49: 3.034 - Player Agent 0.8: 2.884
+Round size: 500 - Player Agent 0.49: 3.0400400000000003 - Player Agent 0.8: 2.86144
+Round size: 10000 - Player Agent 0.49: 3.035392 - Player Agent 0.8: 2.8675319999999997
+Round size: 10 - Player Agent 0.49: 2.772 - Player Agent 0.1 1: 3.012
+Round size: 500 - Player Agent 0.49: 2.6844799999999998 - Player Agent 0.1 1: 2.96408
+Round size: 10000 - Player Agent 0.49: 2.689024 - Player Agent 0.1 1: 2.963414
+Round size: 10 - Player Agent 0.49: 2.812 - Player Agent 0.2 1: 2.912
+Round size: 500 - Player Agent 0.49: 2.75192 - Player Agent 0.2 1: 2.94992
+Round size: 10000 - Player Agent 0.49: 2.7511759999999996 - Player Agent 0.2 1: 2.949636
+Round size: 10 - Player Agent 0.8: 2.7560000000000002 - Player Agent 0.1 1: 3.136
+Round size: 500 - Player Agent 0.8: 2.7206799999999998 - Player Agent 0.1 1: 3.1146800000000003
+Round size: 10000 - Player Agent 0.8: 2.720872 - Player Agent 0.1 1: 3.113392
+Round size: 10 - Player Agent 0.8: 2.8080000000000003 - Player Agent 0.2 1: 3.0780000000000003
+Round size: 500 - Player Agent 0.8: 2.7576 - Player Agent 0.2 1: 3.0957999999999997
+Round size: 10000 - Player Agent 0.8: 2.7586380000000004 - Player Agent 0.2 1: 3.0935180000000004
+Round size: 10 - Player Agent 0.1 1: 2.748 - Player Agent 0.2 1: 2.7680000000000002
+Round size: 500 - Player Agent 0.1 1: 2.7174400000000003 - Player Agent 0.2 1: 2.6162400000000003
+Round size: 10000 - Player Agent 0.1 1: 2.7128539999999997 - Player Agent 0.2 1: 2.622534
+Scores (Sorted):
+1. Agent 0.0 2: 5693.42
+2. Agent 0.0 1: 5690.86
+3. Agent 0.2 1: 5684.58
+4. Agent 0.1 1: 5676.32
+5. Agent 0.0 3: 5672.20
+6. Agent 0.49: 5650.16
+7. AgentMiller bricht aus 124 0.0: 5623.23
+8. AgentMiller bricht aus 124 0.1: 5621.03
+9. AgentMiller bricht aus 124 0.2: 5611.99
+10. Agent 0.8: 5600.64
+11. AgentMiller bricht aus 235 0.0: 5572.15
+12. Agent immer C: 5571.31
+13. AgentMiller bricht aus 235 0.2: 5568.24
+14. AgentMiller bricht aus 235 0.1: 5566.55
+Resetting scores 
+
+
